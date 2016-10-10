@@ -1,0 +1,222 @@
+/*!
+ * Start Bootstrap - Freelancer v3.3.7+1 (http://startbootstrap.com/template-overviews/freelancer)
+ * Copyright 2013-2016 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ */
+body {
+  font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  overflow-x: hidden;
+}
+p {
+  font-size: 20px;
+}
+p.small {
+  font-size: 16px;
+}
+a,
+a:hover,
+a:focus,
+a:active,
+a.active {
+  color: #18BC9C;
+  outline: none;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-transform: uppercase;
+  font-weight: 700;
+  color: black;
+}
+
+.center {
+  max-width: 600px;
+  margin: auto;
+}
+
+/* Nav */
+.navbar-custom {
+  background: white;
+  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-transform: uppercase;
+  font-weight: 700;
+  border: none;
+  border-bottom: 1px solid grey;
+}
+.navbar-brand {
+  margin-top: -16px;
+}
+.navbar-custom a:focus {
+  outline: none;
+}
+.navbar-custom .navbar-brand {
+}
+.navbar-custom .navbar-brand:hover,
+.navbar-custom .navbar-brand:focus,
+.navbar-custom .navbar-brand:active,
+.navbar-custom .navbar-brand.active {
+}
+.navbar-custom .navbar-nav {
+  letter-spacing: 1px;
+}
+.navbar-custom .navbar-nav li a {
+  color: black;
+  display: inline-block;
+  position: relative;
+  padding-bottom: 2px;
+}
+.navbar-custom .navbar-nav li a:hover,
+.navbar-custom .navbar-nav li a:focus,
+.navbar-custom .navbar-nav li a:active {
+  display: inline-block;
+  position: relative;
+  padding-bottom: 2px;
+}
+.navbar-custom .navbar-nav li a:after {
+  content: '';
+  display: block;
+  margin: auto;
+  height: 1px;
+  width: 0px;
+  background: transparent;
+  transition: width .3s ease, background-color .3s ease;
+}
+.navbar-custom .navbar-nav li a:hover:after {
+  width: 100%;
+  background: black;
+}
+.navbar-custom .navbar-nav li.active a,
+.navbar-custom .navbar-nav li.active a:hover,
+.navbar-custom .navbar-nav li.active a:focus,
+.navbar-custom .navbar-nav li.active a:active {
+}
+.navbar-custom .navbar-toggle {
+  text-transform: uppercase;
+  font-size: 10px;
+}
+.navbar-custom .navbar-toggle:hover,
+.navbar-custom .navbar-toggle:focus {
+}
+.logo-header {
+  width: 91px;
+}
+@media (min-width: 768px) {
+  .navbar-custom {
+    padding: 25px 0;
+    -webkit-transition: padding 0.3s;
+    -moz-transition: padding 0.3s;
+    transition: padding 0.3s;
+  }
+  .navbar-custom .navbar-brand {
+    font-size: 2em;
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    transition: all 0.3s;
+  }
+  .navbar-custom.affix {
+    padding: 10px 0;
+  }
+  .navbar-custom.affix .navbar-brand {
+    font-size: 1.5em;
+  }
+  .navbar-brand {
+    margin-top: -26px;
+  }
+  .logo-header {
+    width: 126px;
+  }
+}
+section {
+  padding: 100px 0;
+}
+section h2 {
+  margin: 0;
+  font-size: 3em;
+}
+section.success {
+  background: #18BC9C;
+  color: white;
+}
+@media (max-width: 767px) {
+  section {
+    padding: 75px 0;
+  }
+  section.first {
+    padding-top: 75px;
+  }
+}
+.bg-offwhite {
+  background: #f7f7f7;
+}
+
+.left {
+  margin-left: 0px;
+}
+
+.divider {
+  border-top: 1px solid #638396;
+  width: 200px;
+}
+
+/* Header */
+.image-bg-fluid-height {
+  background: url('/img/panels.png') no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 500px;
+}
+.bg-mask {
+  height: 100%;
+  background: rgba(0,0,0,0.4);
+}
+.bg-mask > h1 {
+  padding-top: 250px;
+  color: rgb(247, 252, 255);
+  text-align: center;
+}
+
+/* Value Prop */
+.intro-item {
+  text-align: center;
+}
+.bullet {
+  width: 35px;
+  border-top: 2px solid #638396;
+}
+
+
+
+/* Who We Are Page */
+.inner-page {
+  background: url('/img/sunset.png') no-repeat center center scroll;
+  height: 300px;
+}
+.inner-page > .bg-mask > .container > h1,
+.inner-page > .bg-mask > .container > h2 {
+  padding-top: 150px;
+  text-align: left;
+  margin: 0px;
+}
+
+footer {
+  background: #2f3c46;
+  color: #638396;
+  padding: 15px 0px;
+}
+.footer-link {
+  display: inline-block;
+  float: left;
+}
+.footer-copyright {
+  display: inline-block;
+  float: right;
+}
+.footer-info > p, .footer-copyright > p > span {
+  font-size: 14px;
+}
