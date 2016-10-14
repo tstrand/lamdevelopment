@@ -3,7 +3,8 @@ title: LAM Development
 date: 2016-08-18 01:29:00 Z
 position: 0
 layout: index
-header-text: Local solar<br/>Delivered at scale
+header-text: LAM Development
+header-subtext: Bringing solar to New York State
 bullet-1-title: Efficient
 bullet-1-body: Solar energy is quickly becoming the most efficient source of power
   to produce

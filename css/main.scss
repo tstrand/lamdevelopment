@@ -13,6 +13,9 @@ body {
   /*background: $dark-grey;*/
 }
 p {
+  font-size: 16px;
+}
+p.big {
   font-size: 20px;
 }
 p.small {
@@ -200,6 +203,14 @@ section.offwhite {
   text-align: center;
   line-height: inherit;
 }
+@media (max-width: 767px) {
+  .image-bg-fluid-height {
+    height: 400px;
+  }
+  .bg-mask > h1 {
+    padding-top: 175px;
+  }
+}
 
 /* Value Prop */
 .intro-item {
@@ -228,6 +239,9 @@ section.offwhite {
   margin: 0px;
 }
 @media (max-width: 767px) {
+  .page {
+    height: 220px;
+  }
   .page > .bg-mask > .container > h1,
   .page > .bg-mask > .container > h2 {
     padding-top: 120px;
@@ -248,7 +262,14 @@ footer a:hover {
   text-transform: none;
 }
 .social-cta {
-  text-transform: uppercase;
+  /*text-transform: uppercase;*/
+  font-size: 16px;
+}
+.social-icons {
+  padding-left: 10px;
+}
+.social-icons a {
+  padding: 5px;
 }
 footer hr {
   border-top: 1px solid $light-grey;
@@ -256,6 +277,7 @@ footer hr {
 .footer-links {
   display: inline-block;
   float: left;
+  padding-bottom: 10px;
 }
 .footer-links a {
   padding-right: 15px;
@@ -270,5 +292,6 @@ footer hr {
 @media (max-width: 767px) {
   .footer-copyright {
     float: left;
+    max-width: 300px;
   }
 }
