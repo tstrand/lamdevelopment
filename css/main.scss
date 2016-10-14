@@ -159,7 +159,7 @@ h6 {
 
 /* Section */
 section {
-  padding: 75px 0;
+  padding: 50px 0;
   background-color: white;
 }
 section h2 {
@@ -168,7 +168,10 @@ section h2 {
 }
 @media (max-width: 767px) {
   section {
-    padding: 50px 0;
+    padding: 25px 0;
+  }
+  section h2 {
+    font-size: 2.5em;
   }
 }
 section.offwhite {
@@ -216,6 +219,13 @@ section.offwhite {
 .intro-item {
   text-align: center;
   padding-bottom: 25px;
+  max-width: 400px;
+  margin: auto;
+}
+@media (max-width: 767px) {
+  .intro-item {
+    padding-bottom: 25px;
+  }
 }
 .bullet {
   width: 35px;
