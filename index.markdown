@@ -1,6 +1,6 @@
 ---
 title: LAM Development
-date: 2016-08-17 21:29:00 -04:00
+date: 2016-08-18 01:29:00 Z
 position: 0
 layout: index
 header-text: Local solar<br/>Delivered at scale
