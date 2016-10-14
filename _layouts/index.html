@@ -13,7 +13,7 @@ layout: default
         <div class="row">
             <div class="col-sm-4">
                 <div class="intro-item">
-                    <h3 class="intro-title">{{ page.bullet-1-header }}</h3>
+                    <h3 class="intro-title">{{ page.bullet-1-title }}</h3>
                     <hr class="bullet">
                     <div class="intro-summary">
                         <p>{{ page.bullet-1-body }}</p>
@@ -22,7 +22,7 @@ layout: default
             </div>
             <div class="col-sm-4">
                 <div class="intro-item">
-                    <h3 class="intro-title">{{ page.bullet-2-header }}</h3>
+                    <h3 class="intro-title">{{ page.bullet-2-title }}</h3>
                     <hr class="bullet">
                     <div class="intro-summary">
                         <p>{{ page.bullet-2-body }}</p>
@@ -31,7 +31,7 @@ layout: default
             </div>
             <div class="col-sm-4">
                 <div class="intro-item">
-                    <h3 class="intro-title">{{ page.bullet-3-header }}</h3>
+                    <h3 class="intro-title">{{ page.bullet-3-title }}</h3>
                     <hr class="bullet">
                     <div class="intro-summary">
                         <p>{{ page.bullet-3-body }}</p>
@@ -42,25 +42,85 @@ layout: default
     </div>
 </section>
 
-<!-- Who Are We -->
-<section class="bg-offwhite">
+<!-- Our Story Snippet -->
+<section class="offwhite">
     <header>
         <div class="container">
             <div class="row">
                 <div class="col-xs-12">
-                    <h5 class="left">LAM Development brings renewable, affordable power to municipalities in New York</h5>
-                    <h2 class="solution-title">We provide solar to municipalities</h2>
+                    <h5 class="left">{{ page.section-1-subtitle }}</h5>
+                    <h2 class="solution-title">{{ page.section-1-title }}</h2>
                     <hr class="divider left">
                 </div>
             </div>
             <div class="row">
-                <div class="col-lg-6 col-md-6">
+                <div class="col-lg-4 col-md-4 col-sm-4">
                     <img src="/img/jason.jpg" class="img-responsive">
                 </div>
-                <div class="col-lg-6 col-md-6">
-                    <h3>We're the best in the business</h3>
-                    <p>We know how to deliver</p>
-                    <button>Read more about us</button>
+                <div class="col-lg-8 col-md-8 col-sm-8">
+                    <h3 class="lowercase">We're the best in the business</h3>
+                    <p class="small">The adoption of renewable energy alternatives in New York State has been stagnant relative to many other states around the country. In order to combat this problem, Governor Cuomo has instituted one of the most aggressive energy programs to spur the development of cleaner energy facilities.</p>
+                    <p class="small">LAM Development sees New York State as an area with great potential, and an area where we have the opportunity to make a substantial positive impact.</p>
+                    <a href="/story">Read more about us &rarr;</a>
+                </div>
+            </div>
+        </div>
+    </header>
+</section>
+
+<!-- Our Partners Snippet -->
+<section>
+    <header>
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12">
+                    <h4 class="center">What's our secret?</h4>
+                    <h2 class="center">We partner with the best in the business</h2>
+                    <hr class="divider">
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-6 col-md-6 col-sm-6">
+                    <div class="partner">
+                        <div class="hovereffect">
+                            <img class="img-responsive" src="/img/land.jpeg" alt="">
+                            <a href="/partners#landowners" class="overlay">
+                                <h2>Landowners</h2>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-md-6 col-sm-6">
+                    <div class="partner">
+                        <div class="hovereffect">
+                            <img class="img-responsive" src="/img/power.jpg" alt="">
+                            <a href="/partners#utilities" class="overlay">
+                                <h2>Utilities</h2>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-6 col-md-6 col-sm-6">
+                    <div class="partner">
+                        <div class="hovereffect">
+                            <img class="img-responsive" src="/img/people.jpg" alt="">
+                            <a href="/partners#communities" class="overlay">
+                                <h2>Communities</h2>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-md-6 col-sm-6">
+                    <div class="partner">
+                        <div class="hovereffect">
+                            <img class="img-responsive" src="/img/tractor.jpg" alt="">
+                            <a href="/partners#investors" class="overlay">
+                                <h2>Investors</h2>
+                            </a>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
