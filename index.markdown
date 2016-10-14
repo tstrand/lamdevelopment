@@ -1,5 +1,5 @@
 ---
-title: Home
+title: LAM Development
 date: 2016-08-17 21:29:00 -04:00
 position: 0
 layout: index
