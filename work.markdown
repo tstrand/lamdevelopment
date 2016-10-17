@@ -3,9 +3,8 @@ title: LAM | Our Work
 date: 2016-08-18 01:29:00 Z
 permalink: "/work"
 position: 0
-layout: work
 header-text: Our Work
-subheader-text: We're bringing solar to New York State
+subheader-text: We're bringing Solar to New York State
 section1-title: We provide solar to municipalities
 section1-subtitle: LAM Development brings renewable, affordable power to municipalities
   in New York
@@ -33,5 +32,6 @@ subsection3-body: Our goal is to fight the harmful dependence on fossil fuels by
   their large capacity demands. By providing municipal governments with renewable
   power, we are able to maximize our contribution to diminishing the dependence on
   fossil fuels, and simultaneously lower the cost of power for our clients.
+layout: work
 ---
 
