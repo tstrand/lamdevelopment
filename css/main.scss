@@ -156,8 +156,8 @@ h6 {
   }
 }
 
-.dropdown-toggle {
-  background-color: white
+.fa-bars {
+  font-size: 18px;
 }
 
 /* Section */
@@ -192,7 +192,7 @@ section.offwhite {
 
 /* Header */
 .image-bg-fluid-height {
-  background: url('/img/panels.png') no-repeat center center scroll;
+  background: url('/img/panels.jpg') no-repeat center center scroll;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -242,7 +242,7 @@ section.offwhite {
 
 /* Who We Are */
 .page {
-  background-image: url('/img/sunset.png');
+  background-image: url('/img/sunset.jpg');
   height: 300px;
 }
 .page > .bg-mask > .container > h1,
