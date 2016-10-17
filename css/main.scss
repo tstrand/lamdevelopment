@@ -79,13 +79,6 @@ h6 {
 .navbar-custom a:focus {
   outline: none;
 }
-.navbar-custom .navbar-brand {
-}
-.navbar-custom .navbar-brand:hover,
-.navbar-custom .navbar-brand:focus,
-.navbar-custom .navbar-brand:active,
-.navbar-custom .navbar-brand.active {
-}
 .navbar-custom .navbar-nav {
   letter-spacing: 1px;
 }
@@ -94,6 +87,12 @@ h6 {
   display: inline-block;
   position: relative;
   padding-bottom: 2px;
+}
+.navbar-default .navbar-nav>.open>a, 
+.navbar-default .navbar-nav>.open>a:focus,
+.navbar-default .navbar-nav>.open>a:hover {
+  background-color: white;
+  color: black;
 }
 .navbar-custom .navbar-nav li a:hover,
 .navbar-custom .navbar-nav li a:focus,
@@ -155,6 +154,10 @@ h6 {
   .logo-header {
     width: 106px;
   }
+}
+
+.dropdown-toggle {
+  background-color: white
 }
 
 /* Section */
