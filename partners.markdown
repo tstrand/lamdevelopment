@@ -28,8 +28,6 @@ subsection3-body: |-
   <li>We always put our clients needs first, constantly looking for creative ways to generate value for them
   <li>This approach has helped foster invaluable relationships that last well beyond our business association
   </ul>
-subsection4-title: Investors
-subsection4-body: Enter content about the investors
 layout: partners
 ---
 
