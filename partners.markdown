@@ -8,13 +8,12 @@ subheader-text: We're connecting the right people through solar
 section1-title: We build relationships
 subsection1-title: Landowners
 subsection1-body: |-
-  * Monetize your land through an outright sale or lease
-
-  * Providing flexibility to meet the needs of every owner
-
-  * Partnering with LAM Development helps to create a clean and sustainable future for generations to come
-
-  * The land we work on is left unscathed and in pristine condition upon departure
+  <ul>
+  <li>Monetize your land through an outright sale or lease</li>
+  <li>Providing flexibility to meet the needs of every owner</li>
+  <li>Partnering with LAM Development helps to create a clean and sustainable future for generations to come</li>
+  <li>The land we work on is left unscathed and in pristine condition upon departure</li>
+  </ul>
 subsection2-title: Utilities
 subsection2-body: |-
   * LAM Development aligns its interest with those of the utility companies in which we operate to ensure an efficient and pleasant relationship throughout the development process
