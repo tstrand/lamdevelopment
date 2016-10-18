@@ -17,17 +17,18 @@ subsection1-body: |-
   </ul>
 subsection2-title: Utilities
 subsection2-body: |-
-  * LAM Development aligns its interest with those of the utility companies in which we operate to ensure an efficient and pleasant relationship throughout the development process
-
-
-  * Our friendships with the utility company's employees provide us with a distinct comparative advantage to that of our competitors
+  <ul>
+  <li>LAM Development aligns its interest with those of the utility companies in which we operate to ensure an efficient and pleasant relationship throughout the development process
+  <li>Our friendships with the utility company's employees provide us with a distinct comparative advantage to that of our competitors
+  </ul>
 subsection3-title: Communities
-subsection3-body: "* LAM Development operates with complete transparency to foster
-  a relationship of trust; the crux of our business\n\n* We only operates in areas
-  which welcome us with open arms; we are not looking to crash any parties\n\n* We
-  always put our clients needs first, constantly looking for creative ways to generate
-  value for them \n\n* This approach has helped foster invaluable relationships that
-  last well beyond our business association"
+subsection3-body: |-
+  <ul>
+  <li>LAM Development operates with complete transparency to foster a relationship of trust; the crux of our business
+  <li>We only operates in areas which welcome us with open arms; we are not looking to crash any parties
+  <li>We always put our clients needs first, constantly looking for creative ways to generate value for them
+  <li>This approach has helped foster invaluable relationships that last well beyond our business association
+  </ul>
 subsection4-title: Investors
 subsection4-body: Enter content about the investors
 layout: partners
