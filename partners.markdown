@@ -3,32 +3,27 @@ title: LAM | Our Partners
 date: 2016-08-18 01:29:00 Z
 permalink: "/partners"
 position: 0
-layout: partners
 header-text: Our Partners
 subheader-text: We're connecting the right people through solar
 section1-title: We build relationships
 subsection1-title: Landowners
-subsection1-body: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-  eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-  fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa
-  qui officia deserunt mollit anim id est laborum.
+subsection1-body: "* Monetize your land through an outright sale or lease \n  * Providing
+  flexibility to meet the needs of everyone\n\n* Partnering with LAM Development helps
+  to create a clean and sustainable future for generations to come\n\n* The land we
+  work on is left unscathed and in pristine condition upon departure\n "
 subsection2-title: Utilities
-subsection2-body: Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-  doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis
-  et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem
-  quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores
-  eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-  ipsum quia dolor sit amet, consectetur
+subsection2-body: |-
+  * LAM Development aligns its interest with those of the utility companies in which we operate to ensure an efficient and pleasant relationship throughout the development process
+   * Our friendships with the utility company's employees provide us with a distinct comparative advantage to that of our competitors
 subsection3-title: Communities
-subsection3-body: At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis
-  praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi
-  sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt
-  mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est
-  et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio
-  cumque nihil impedit quo minus id quod
+subsection3-body: "* LAM Development operates with complete transparency to foster
+  a relationship of trust; the crux of our business  \n* We only operates in areas
+  which welcome us with open arms; we are not looking to crash any parties\n* We always
+  put our clients needs first, constantly looking for creative ways to generate value
+  for them \n* This approach has helped foster invaluable relationships that last
+  well beyond our business association "
 subsection4-title: Investors
 subsection4-body: Enter content about the investors
+layout: partners
 ---
 
