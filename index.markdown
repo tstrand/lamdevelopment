@@ -1,6 +1,7 @@
 ---
 title: LAM Development
 date: 2016-08-18 01:29:00 Z
+published: false
 position: 0
 header-text: LAM Development
 header-subtext: Bringing solar to New York State
