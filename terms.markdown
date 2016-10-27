@@ -7,50 +7,50 @@ layout: page
 header-text: Terms and Conditions
 subheader-text: 
 ---
-## Privacy Policy
-*Last updated: October 25, 2016*
 
-Lieberman Asset Management, LLC ("LAM") operates the website http://www.lamdevelopment.com/ website (the "Website").  This page informs you of LAM’s policies regarding the collection, use and disclosure of Personal Information, as hereinafter defined, when you use the Website.  LAM will not use or share your information with anyone except as described in this Privacy Policy.  By using the Website, you agree to the collection and use of information in accordance with this Privacy Policy. Unless otherwise defined herein, terms used in this Privacy Policy have the same meanings as in LAM’s Terms and Conditions, accessible on the Website.
+## Terms and Conditions
+*Last updated: October 25, 2016.*
 
-### Information Collection And Use
+Please read these Terms and Conditions ("Terms") carefully before using http://www.lamdevelopment.com/(the "Website") operated by Lieberman Asset Management LLC ("LAM").
 
-While using the Website, LAM may ask you to provide it with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to, your email address, name, phone number, and other similar identifiers and/or information ("Personal Information").  LAM may use your Personal Information for providing and improving the services LAM offers, as described on the Website, including, but not limited to, identifying and communicating with you, responding to your requests/inquiries, servicing your inquiries, and improving LAM’s services.
+### Conditions of Use
+These Terms govern your use of the Website.  Your access to and use of the Website is conditioned upon your acceptance of and compliance with these Terms in full. These Terms apply to all visitors, users and others who wish to access or use the Website. By accessing or using the Website, you agree to be bound by these Terms. If you disagree with these Terms, or any part of these Terms, then you do not have permission to access the Website.
 
-LAM will not collect any Personal Information about you unless you voluntarily decide to provide it.  LAM may store and process your Personal Information and share it with LAM’s affiliates in case it is considered relevant and necessary to better respond to your queries, demands and/or needs.  Personal Information will not be sold, shared, traded or rented to third parties for marketing purposes.
+### Intellectual Property
+The Website and its original content, features and functionality are and will remain the exclusive property of LAM and its licensors. The Website is protected by copyright, trademark, and other laws of both the United States and foreign countries. Our trademarks and trade dress may not be used in connection with any product or service without the prior written consent of LAM.  Any reproduction, distribution, commercialization or transformation of these contents that has not been specifically authorized by the titleholders hereof, constitutes an infringement of the intellectual property rights protected by law.
 
-### Log Data
-LAM may also collect information that your browser sends whenever you visit the Website ("Log Data"). This Log Data may include information such as your computer's Internet Protocol ("IP") address, browser type, browser version, the pages of the Website that you visit, the time and date of your visit, the time spent on those pages and other statistics.  In addition, LAM may use third party services, such as Google Analytics, that collect, monitor and analyze this type of information in order to increase the Website’s functionality. These third party service providers have their own privacy policies addressing how they use such information.
+### Links To Other Web Sites
+The Website may contain links to third party web sites or services that are not owned or controlled by LAM.  LAM has no control over, and assumes no responsibility for the content, privacy policies, or practices of any third party web sites or services. LAM does not warrant the offerings of any of these entities/individuals or their websites.
 
-### Cookies
-Cookies are files with a small amount of data, which may include an anonymous unique identifier. Cookies are sent to your browser from a web site and transferred to your device. LAM uses cookies to collect information in order to improve LAM’s services for you.
+You acknowledge and agree that LAM shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, goods or services available on or through any such third party web sites or services.  LAM strongly advises you to read the terms and conditions and privacy policies of any third party web sites or services that you visit.
 
-You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. The “Help” feature on most browsers provides information on how to accept cookies, disable cookies or to notify you when receiving a new cookie.  If you do not accept cookies, you may not be able to use some features of the Website and LAM recommends that you leave them turned on.
+### Termination
+LAM may terminate or suspend your access to the Website immediately, without prior notice or liability, under our sole discretion, for any reason whatsoever and without limitation, including but not limited to a breach of the Terms.
 
-### Do Not Track Disclosure
-LAM supports Do Not Track ("DNT"). DNT is a preference you can set in your web browser to inform websites, like the Website, that you do not want to be tracked.  You can enable or disable DNT by visiting the “Preferences” or “Settings” page of your web browser.
+All provisions of the Terms which by their nature should survive termination shall survive termination, including, without limitation, ownership provisions, warranty disclaimers, indemnity and limitations of liability.
 
-### Service Providers
-LAM may employ third party companies and individuals to facilitate the Website to perform Website-related services, and/or to assist LAM in analyzing how the Website is used.  These third parties have access to your Personal Information only to perform specific tasks on LAM’s behalf and are obligated not to disclose or use your Personal Information for any other purpose.
+### Indemnification
+To the fullest extent permitted by law, you shall indemnify, defend and hold harmless LAM, and its members, managers, officers, employees and agents, from and against all claims, damages, loss, liability or expense of any kind, which is in any way connected with the Website and/or your Personal Information (as defined in LAM’s Privacy Policy).  This indemnification includes, but is not limited to, any claims, damages, loss, liability or expense of any kind, including attorneys’ fees, which is in any way connected with the Website and/or your Personal Information, or which is based upon a breach of any duty or obligation on your part, any of your agents’ part, LAM, or any of LAM’s agents’ part even if no negligent act is found to have occurred.   
 
-### Communications
-LAM may use your Personal Information to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from LAM by following the unsubscribe link or instructions provided in any email LAM sends.
+### Limitation Of Liability
+LAM, AND ITS MEMBERS, MANAGERS, OFFICERS, EMPLOYEES AND AGENTS, EXPRESSLY DISCLAIM, AND YOU HEREBY EXPRESSLY WAIVE, ALL EXPRESS OR IMPLIED WARRANTIES INCLUDING, WITHOUT LIMITATION, WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT AND/OR ANY WARRANTIES RELATING TO BUSINESS PROFITS OR LOSSES, INTERNET SERVICE RELIABILITY, PRIVACY, OR THE ACCURACY, INTEGRITY, RELIABILITY OR COMPLETENESS OF ANY OF THE DATA OR CONTENT PUBLISHED OR MADE ACCESSIBLE ON THE WEBSITE OR THROUGH LAM’S SERVICES.  IN NO EVENT SHALL LAM, OR ANY OF ITS MEMBERS, MANAGERS, OFFICERS, EMPLOYEES OR AGENTS, BE LIABLE TO YOU, AND YOU HEREBY RELEASE ALL OF THE AFOREMENTIONED FOR, ANY AND ALL LOST PROFITS OR ANY DIRECT, INDIRECT, PUNITIVE, EXEMPLARY, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF OR IN CONNECTION WITH YOUR USE OF THE WEBSITE, LAM’S SERVICES, OR ANY BREACH OF THESE TERMS. 
 
-### Legal Disclaimer
-LAM will disclose your Personal Information where required to do so by law or subpoena or if LAM believes that such action is necessary to comply with the law and the reasonable requests of law enforcement or to protect the security or integrity of the Website.
+### Disclaimer
+Your use of the Website is at your sole risk. The Website is provided on an "AS IS" and "AS AVAILABLE" basis.  LAM does not warrant that a) the Website will function uninterrupted, secure or available at any particular time or location; b) any errors or defects will be corrected; c) the Website is free of viruses or other harmful components; or d) the results of using the Website will meet your requirements.
 
-### Security
-The security of your Personal Information is important to LAM, and LAM strives to implement and maintain reasonable, commercially acceptable security procedures and practices appropriate to the nature of the information LAM stores, in order to protect it from unauthorized access, destruction, use, modification, or disclosure.  However, please be aware that no method of transmission over the internet, or method of electronic storage is 100% secure and LAM is unable to guarantee the absolute security of the Personal Information LAM has collected from you. LAM is not responsible for the security of Personal Information you transmit to the Website over networks LAM does not control, including the internet and wireless networks.  
+### Governing Law
+These Terms shall be governed and construed in accordance with the laws of New York , without regard to its conflict of law provisions and any disputes relating to these terms and conditions will be subject to the exclusive jurisdiction of the courts of New York.
 
-### Links To Other Sites
-The Website may contain links to other websites that are not operated by LAM. If you click on a third party link, you will be directed to that third party's site. LAM strongly advises you to review the privacy policy of every site you visit.
-LAM has no control over, and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+### Entire Agreement
+Our failure to enforce any right or provision of these Terms will not be considered a waiver of those rights. If any provision of these Terms is held to be invalid or unenforceable by a court, the remaining provisions of these Terms will remain in effect. These Terms constitute the entire agreement between you and LAM regarding the Website, and supersede and replace any prior agreements between you and LAM regarding the Website, if any.
 
-### Changes To This Privacy Policy
-This Privacy Policy is effective as of October 25, 2016 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.  LAM reserves the right to update or change this Privacy Policy at any time. By using this Website, you are expected to review the Privacy Policy on a regular basis to ensure you understand the policies governing the use of this Website.  Your continued use of the Website after LAM posts any modifications to the Privacy Policy on this page will constitute your acknowledgment of the modifications and your consent to abide and be bound by the modified Privacy Policy.
+### Changes
+We reserve the right, at our sole discretion, to modify or replace these Terms at any time. By using this Website you are expected to review such Terms on a regular basis to ensure that you understand all Terms governing the use of this Website. If we make any material changes to these Terms, we will notify you by placing a prominent notice on our website.
+By continuing to access or use our the Website after any revisions become effective, you agree to be bound by the revised Terms. If you do not agree to the new Terms, you are no longer authorized to use the Website.
 
-If LAM makes any material changes to this Privacy Policy, LAM will notify you by placing a prominent notice on the Website.
+### Severability
+If any provision of these terms is found to be unenforceable or invalid under any applicable law, such unenforceability or invalidity shall not render these Terms unenforceable or invalid as a whole, and such provisions shall be deleted without affecting the remaining provisions herein.
 
 ### Contact Us
-If you have any questions about this Privacy Policy, please contact LAM.
-
+If you have any questions about these Terms, please contact LAM.
 
