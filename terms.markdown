@@ -5,26 +5,49 @@ permalink: "/terms"
 position: 0
 layout: page
 header-text: Terms and Conditions
-subheader-text: 
+subheader-text: Last updated&#58; October 25, 2016.
 ---
 
-### The standard Lorem Ipsum passage, used since the 1500s
+Please read these Terms and Conditions ("Terms") carefully before using http://www.lamdevelopment.com/(the "Website") operated by Lieberman Asset Management LLC ("LAM").
 
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+### Conditions of Use
+These Terms govern your use of the Website.  Your access to and use of the Website is conditioned upon your acceptance of and compliance with these Terms in full. These Terms apply to all visitors, users and others who wish to access or use the Website. By accessing or using the Website, you agree to be bound by these Terms. If you disagree with these Terms, or any part of these Terms, then you do not have permission to access the Website.
 
-### Section 1.10.32 of "de Finibus Bonorum et Malorum", written by Cicero in 45 BC
+### Intellectual Property
+The Website and its original content, features and functionality are and will remain the exclusive property of LAM and its licensors. The Website is protected by copyright, trademark, and other laws of both the United States and foreign countries. Our trademarks and trade dress may not be used in connection with any product or service without the prior written consent of LAM.  Any reproduction, distribution, commercialization or transformation of these contents that has not been specifically authorized by the titleholders hereof, constitutes an infringement of the intellectual property rights protected by law.
 
-"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
+### Links To Other Web Sites
+The Website may contain links to third party web sites or services that are not owned or controlled by LAM.  LAM has no control over, and assumes no responsibility for the content, privacy policies, or practices of any third party web sites or services. LAM does not warrant the offerings of any of these entities/individuals or their websites.
 
-### 1914 translation by H. Rackham
+You acknowledge and agree that LAM shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, goods or services available on or through any such third party web sites or services.  LAM strongly advises you to read the terms and conditions and privacy policies of any third party web sites or services that you visit.
 
-"But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"
+### Termination
+LAM may terminate or suspend your access to the Website immediately, without prior notice or liability, under our sole discretion, for any reason whatsoever and without limitation, including but not limited to a breach of the Terms.
 
-### Section 1.10.33 of "de Finibus Bonorum et Malorum", written by Cicero in 45 BC
+All provisions of the Terms which by their nature should survive termination shall survive termination, including, without limitation, ownership provisions, warranty disclaimers, indemnity and limitations of liability.
 
-"At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat."
+### Indemnification
+To the fullest extent permitted by law, you shall indemnify, defend and hold harmless LAM, and its members, managers, officers, employees and agents, from and against all claims, damages, loss, liability or expense of any kind, which is in any way connected with the Website and/or your Personal Information (as defined in LAM’s Privacy Policy).  This indemnification includes, but is not limited to, any claims, damages, loss, liability or expense of any kind, including attorneys’ fees, which is in any way connected with the Website and/or your Personal Information, or which is based upon a breach of any duty or obligation on your part, any of your agents’ part, LAM, or any of LAM’s agents’ part even if no negligent act is found to have occurred.   
 
-### 1914 translation by H. Rackham
+### Limitation Of Liability
+LAM, AND ITS MEMBERS, MANAGERS, OFFICERS, EMPLOYEES AND AGENTS, EXPRESSLY DISCLAIM, AND YOU HEREBY EXPRESSLY WAIVE, ALL EXPRESS OR IMPLIED WARRANTIES INCLUDING, WITHOUT LIMITATION, WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT AND/OR ANY WARRANTIES RELATING TO BUSINESS PROFITS OR LOSSES, INTERNET SERVICE RELIABILITY, PRIVACY, OR THE ACCURACY, INTEGRITY, RELIABILITY OR COMPLETENESS OF ANY OF THE DATA OR CONTENT PUBLISHED OR MADE ACCESSIBLE ON THE WEBSITE OR THROUGH LAM’S SERVICES.  IN NO EVENT SHALL LAM, OR ANY OF ITS MEMBERS, MANAGERS, OFFICERS, EMPLOYEES OR AGENTS, BE LIABLE TO YOU, AND YOU HEREBY RELEASE ALL OF THE AFOREMENTIONED FOR, ANY AND ALL LOST PROFITS OR ANY DIRECT, INDIRECT, PUNITIVE, EXEMPLARY, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF OR IN CONNECTION WITH YOUR USE OF THE WEBSITE, LAM’S SERVICES, OR ANY BREACH OF THESE TERMS. 
 
-"On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain. These cases are perfectly simple and easy to distinguish. In a free hour, when our power of choice is untrammelled and when nothing prevents our being able to do what we like best, every pleasure is to be welcomed and every pain avoided. But in certain circumstances and owing to the claims of duty or the obligations of business it will frequently occur that pleasures have to be repudiated and annoyances accepted. The wise man therefore always holds in these matters to this principle of selection: he rejects pleasures to secure other greater pleasures, or else he endures pains to avoid worse pains."
+### Disclaimer
+Your use of the Website is at your sole risk. The Website is provided on an "AS IS" and "AS AVAILABLE" basis.  LAM does not warrant that a) the Website will function uninterrupted, secure or available at any particular time or location; b) any errors or defects will be corrected; c) the Website is free of viruses or other harmful components; or d) the results of using the Website will meet your requirements.
+
+### Governing Law
+These Terms shall be governed and construed in accordance with the laws of New York , without regard to its conflict of law provisions and any disputes relating to these terms and conditions will be subject to the exclusive jurisdiction of the courts of New York.
+
+### Entire Agreement
+Our failure to enforce any right or provision of these Terms will not be considered a waiver of those rights. If any provision of these Terms is held to be invalid or unenforceable by a court, the remaining provisions of these Terms will remain in effect. These Terms constitute the entire agreement between you and LAM regarding the Website, and supersede and replace any prior agreements between you and LAM regarding the Website, if any.
+
+### Changes
+We reserve the right, at our sole discretion, to modify or replace these Terms at any time. By using this Website you are expected to review such Terms on a regular basis to ensure that you understand all Terms governing the use of this Website. If we make any material changes to these Terms, we will notify you by placing a prominent notice on our website.
+By continuing to access or use our the Website after any revisions become effective, you agree to be bound by the revised Terms. If you do not agree to the new Terms, you are no longer authorized to use the Website.
+
+### Severability
+If any provision of these terms is found to be unenforceable or invalid under any applicable law, such unenforceability or invalidity shall not render these Terms unenforceable or invalid as a whole, and such provisions shall be deleted without affecting the remaining provisions herein.
+
+### Contact Us
+If you have any questions about these Terms, please contact LAM.
 
