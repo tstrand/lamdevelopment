@@ -5,11 +5,8 @@ permalink: "/terms"
 position: 0
 layout: page
 header-text: Terms and Conditions
-subheader-text: 
+subheader-text: Last updated&#58; October 25, 2016.
 ---
-
-## Terms and Conditions
-*Last updated: October 25, 2016.*
 
 Please read these Terms and Conditions ("Terms") carefully before using http://www.lamdevelopment.com/(the "Website") operated by Lieberman Asset Management LLC ("LAM").
 

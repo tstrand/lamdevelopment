@@ -5,11 +5,8 @@ permalink: "/privacy"
 position: 0
 layout: page
 header-text: Privacy Policy
-subheader-text: 
+subheader-text: Last updated&#58; October 25, 2016
 ---
-
-## Privacy Policy
-*Last updated: October 25, 2016*
 
 Lieberman Asset Management, LLC ("LAM") operates the website http://www.lamdevelopment.com/ website (the "Website").  This page informs you of LAM’s policies regarding the collection, use and disclosure of Personal Information, as hereinafter defined, when you use the Website.  LAM will not use or share your information with anyone except as described in this Privacy Policy.  By using the Website, you agree to the collection and use of information in accordance with this Privacy Policy. Unless otherwise defined herein, terms used in this Privacy Policy have the same meanings as in LAM’s Terms and Conditions, accessible on the Website.
 
