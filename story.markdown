@@ -7,8 +7,6 @@ layout: story
 header-text: Our Story
 subheader-text: We're a team of innovators bringing solar to NY
 section1-title: The time for solar is now
-section1-subtitle: LAM Development was born out of a convergence of trends in the
-  solar industry
 subsection1-title: Improved Panel Technology
 subsection1-body: Over the last decade, great strides have been made in the advancement
   of solar technology, making them a more viable clean energy solution today. Unlike

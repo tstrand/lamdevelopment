@@ -6,8 +6,6 @@ position: 0
 header-text: Our Work
 subheader-text: We're bringing Solar to New York State
 section1-title: We provide solar to municipalities
-section1-subtitle: LAM Development brings renewable, affordable power to municipalities
-  in New York
 subsection1-title: Focus
 subsection1-body: LAM Development focuses on bringing renewable, affordable power
   to municipalities. We accomplish this by leveraging our vast network with utilities,
