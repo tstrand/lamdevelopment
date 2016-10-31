@@ -14,6 +14,10 @@ body {
 }
 p {
   font-size: 16px;
+  text-align: justify;
+}
+p.center {
+  text-align: center;
 }
 p.big {
   font-size: 20px;
@@ -43,7 +47,7 @@ h6 {
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-weight: 700;
-  color: black;
+  margin-top: 0px;
 }
 .center {
   max-width: 700px;
@@ -191,31 +195,28 @@ section.offwhite {
 }
 
 /* Header */
-.image-bg-fluid-height {
+.header-bg {
   background: url('/img/panels.jpg') no-repeat center center scroll;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  height: 500px;
+  height: 100vh;
 }
 .bg-mask {
   height: 100%;
   background: rgba(0,0,0,0.4);
 }
-.bg-mask > h1 {
-  padding-top: 250px;
-  color: $white;
+.header-content {
+  position: absolute;
+  top: 50%;
+  padding: 0 50px;
+  width: 100%;
   text-align: center;
-  line-height: inherit;
-}
-@media (max-width: 767px) {
-  .image-bg-fluid-height {
-    height: 400px;
-  }
-  .bg-mask > h1 {
-    padding-top: 175px;
-  }
+  color: $white;
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
 }
 
 /* Value Prop */
