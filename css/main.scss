@@ -210,7 +210,6 @@ section.offwhite {
 .header-content {
   position: absolute;
   top: 50%;
-  padding: 0 50px;
   width: 100%;
   text-align: center;
   color: $white;
@@ -218,7 +217,10 @@ section.offwhite {
   -ms-transform: translateY(-50%);
   transform: translateY(-50%);
 }
-
+.header-content-inner {
+  padding: 20px;
+  max-width: 600px;
+}
 /* Value Prop */
 .intro-item {
   text-align: center;
