@@ -3,12 +3,12 @@ title: LAM | Terms & Conditions
 date: 2016-08-18 01:29:00 Z
 permalink: "/terms"
 position: 0
-layout: page
 header-text: Terms and Conditions
 subheader-text: Last updated&#58; October 25, 2016.
+layout: page
 ---
 
-Please read these Terms and Conditions ("Terms") carefully before using http://www.lamdevelopment.com/(the "Website") operated by Lieberman Asset Management LLC ("LAM").
+Please read these Terms and Conditions ("Terms") carefully before using http://www.lamdevelopment.com/ (the "Website") operated by Lieberman Asset Management LLC ("LAM").
 
 ### Conditions of Use
 These Terms govern your use of the Website.  Your access to and use of the Website is conditioned upon your acceptance of and compliance with these Terms in full. These Terms apply to all visitors, users and others who wish to access or use the Website. By accessing or using the Website, you agree to be bound by these Terms. If you disagree with these Terms, or any part of these Terms, then you do not have permission to access the Website.
