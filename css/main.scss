@@ -203,8 +203,18 @@ section.offwhite {
   background-size: cover;
   height: 100vh;
 }
+.bgvid {
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 100vh;
+}
 .bg-mask {
+  position: absolute;
+  top: 0;
   height: 100%;
+  width: 100%;
   background: rgba(0,0,0,0.4);
 }
 .header-content {
