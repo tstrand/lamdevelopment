@@ -41,4 +41,16 @@
         });
     });
 
+    $('#form-submit').click(function(){
+        e.preventDefault();
+        $.ajax({
+            url:'http://formspree.io/tylermstrand@gmail.com',
+            type:'post',
+            data:$('#form').serialize(),
+            success:function(){
+                alert("worked");
+            }
+        });
+    }
+
 })(jQuery); // End of use strict
