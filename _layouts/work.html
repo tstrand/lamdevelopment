@@ -2,56 +2,54 @@
 layout: page
 ---
 
-<section>
-    <div class="row">
-        <div class="col-xs-12">
-            <h2 class="solution-title">{{ page.section1-title }}</h2>
-            <hr class="divider left">
+        <div class="row">
+            <div class="col-xs-12">
+                <h2 class="solution-title">{{ page.section1-title }}</h2>
+                <hr class="divider left">
+            </div>
         </div>
-    </div>
-    <div class="row">
-        <div class="col-lg-8 col-md-8">
-            <h3>{{ page.subsection1-title }}</h3>
-            <p class="small">{{ page.subsection1-body }}</p>
-            <h3>{{ page.subsection2-title }}</h3>
-            <p class="small">{{ page.subsection2-body }}</p>
-            <h3>{{ page.subsection3-title }}</h3>
-            <p class="small">{{ page.subsection3-body }}</p>
+        <div class="row">
+            <div class="col-lg-8 col-md-8">
+                <h3>{{ page.subsection1-title }}</h3>
+                <p class="small">{{ page.subsection1-body }}</p>
+                <h3>{{ page.subsection2-title }}</h3>
+                <p class="small">{{ page.subsection2-body }}</p>
+                <h3>{{ page.subsection3-title }}</h3>
+                <p class="small">{{ page.subsection3-body }}</p>
+            </div>
         </div>
     </div>
 </section>
 
-<section>
-    <div class="row">
-        <form id="form">
-            <div class="col-lg-6 col-md-6">
-                <div class="form-group">
-                    <label for="firstName">First Name</label>
-                    <input name="firstName" type="email" class="form-control" id="firstName" placeholder="Enter first name" required>
-                    
-                    <label for="lastName">Last Name</label>
-                    <input name="lastName" type="name" class="form-control" id="lastName" placeholder="Enter last name" required>
-                    
-                    <label for="email">Email address</label>
-                    <input name="email" type="email" class="form-control" id="email" placeholder="Enter email" required>
-                    <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+<section class="offwhite">
+    <div class="container">
+        <div class="row">
+            <form id="contactForm" name="contactForm" action="">
+                <div class="col-lg-6 col-md-6">
+                    <h3>Colorlib Contact Form</h3>
+                    <h4>Contact us for custom quote</h4>
+                    <div class="form-group">
+                        <input name="firstName" type="text" class="form-control" id="firstName" placeholder="Enter first name" required>
+                        
+                        <input name="lastName" type="text" class="form-control" id="lastName" placeholder="Enter last name" required>
+                        
+                        <input name="email" type="email" class="form-control" id="email" placeholder="Enter email" required>
+                        <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+                    </div>
                 </div>
-            </div>
-            <div class="col-lg-6 col-md-6">
-                <div class="form-group">
-                    <label for="exampleSelect1">Town</label>
-                    <select name="town" class="form-control" id="exampleSelect1">
-                        <option>1</option>
-                        <option>2</option>
-                        <option>3</option>
-                        <option>4</option>
-                        <option>5</option>
-                    </select>
+                <div class="col-lg-6 col-md-6">
+                    <div class="form-group">
+                        <select name="town" class="form-control" id="townSelect" placeholder="Select a town">
+                            <option>1</option>
+                            <option>2</option>
+                            <option>3</option>
+                            <option>4</option>
+                            <option>5</option>
+                        </select>
+                    </div>
                 </div>
-            </div>
-            <div class="col-xs-12">
-                <button type="submit" id="form-submit" class="btn btn-primary">Send</button>
-            </div>
-        </form>
-    </div>
-</section>
+                <div class="col-xs-12">
+                    <a id="form-submit" class="btn btn-primary ladda-button" data-style="expand-right">Send</a>
+                </div>
+            </form>
+        </div>

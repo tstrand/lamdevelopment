@@ -1,5 +1,3 @@
-// Freelancer Theme JavaScript
-
 (function($) {
     "use strict"; // Start of use strict
 
@@ -41,16 +39,27 @@
         });
     });
 
-    $('#form-submit').click(function(){
+    $('#form-submit').click(function(e){
         e.preventDefault();
+        console.log("worked");
+        var l = Ladda.create(this);
+        l.start();
         $.ajax({
             url:'http://formspree.io/tylermstrand@gmail.com',
             type:'post',
-            data:$('#form').serialize(),
+            data:$('#contactForm').serialize(),
             success:function(){
-                alert("worked");
+                setTimeout(function (){
+                    l.stop();
+                    $('#form-submit').html("&#10003; Your message has been sent");
+                    $('#form-submit').removeClass();
+                    $('#form-submit').addClass("btn btn-secondary");
+                }, 1000);
+            },
+            error:function(){
+                l.stop();
             }
         });
-    }
+    });
 
 })(jQuery); // End of use strict
