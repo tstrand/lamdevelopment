@@ -31,6 +31,5 @@ subsection3-body: Our goal is to fight the harmful dependence on fossil fuels by
   power, we are able to maximize our contribution to diminishing the dependence on
   fossil fuels, and simultaneously lower the cost of power for our clients.
 layout: work
-form-recipient-email: jason.l@lamdevelopment.com
 ---
 

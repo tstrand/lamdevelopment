@@ -2,63 +2,19 @@
 layout: page
 ---
 
-        <div class="row">
-            <div class="col-xs-12">
-                <h2 class="solution-title">{{ page.section1-title }}</h2>
-                <hr class="divider left">
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-lg-8 col-md-8">
-                <h3>{{ page.subsection1-title }}</h3>
-                <p class="small">{{ page.subsection1-body }}</p>
-                <h3>{{ page.subsection2-title }}</h3>
-                <p class="small">{{ page.subsection2-body }}</p>
-                <h3>{{ page.subsection3-title }}</h3>
-                <p class="small">{{ page.subsection3-body }}</p>
-            </div>
-        </div>
+<div class="row">
+    <div class="col-xs-12">
+        <h2 class="solution-title">{{ page.section1-title }}</h2>
+        <hr class="divider left">
     </div>
-</section>
-
-<section id="landowner-form" class="offwhite">
-    <div class="container">
-        <div class="row">
-            <div class="col-xs-12">
-                <h2 class="center">Calling all Landowners</h2>
-                <hr class="divider">
-                <p class="small center">Fill out the form below to find out if your parcel is located in a state in which we are currently doing business. If it is, and if the site passes our preliminary analysis, we will contact you via the email you provide.</p>
-            </div>
-        </div>
-        <div class="row">
-            <form id="contactForm" name="contactForm" action="">
-                <fieldset>
-                    <div class="col-lg-6 col-md-6 col-sm-6 pad-left">
-                        <div class="form-group">
-                            <input name="name" type="text" class="form-control" id="formName" placeholder="Name*" required>
-                            <input name="phone" type="text" class="form-control" id="formPhone" placeholder="Phone*" required>
-                            <input name="email" type="email" class="form-control" id="formEmail" placeholder="Email*" required>
-                            <input name="address" type="text" class="form-control" id="formAddress" placeholder="Address*" required>
-                        </div>
-                    </div>
-                    <div class="col-lg-6 col-md-6 col-sm-6 pad-right">
-                        <div class="form-group">
-                            <input name="acreage" type="text" class="form-control" id="formAcreage" placeholder="Acreage*" required>
-                            <input name="parcel" type="text" class="form-control" id="formParcel" placeholder="Parcel Address*" required>
-                            <input name="parcelID" type="text" class="form-control" id="formParcelID" placeholder="Parcel ID">
-                            <input type="hidden" name="_subject" value="New Landowner Submission"/>
-                            {% if jekyll.environment == 'development' %}
-                            <input type="hidden" name="_sendto" id="_sendto" value="tylermstrand@gmail.com"/>
-                            {% else %}
-                            <input type="hidden" name="_sendto" id="_sendto" value="{{ page.form-recipient-email }}" />
-                            {% endif %}
-                        </div>
-                    </div>
-                    <div class="col-xs-12">
-                        <div class="center">
-                            <input type="submit" id="form-submit" class="form-submit" value="Submit">
-                        </div>
-                    </div>
-                </fieldset>
-            </form>
-        </div>
+</div>
+<div class="row">
+    <div class="col-lg-8 col-md-8">
+        <h3>{{ page.subsection1-title }}</h3>
+        <p class="small">{{ page.subsection1-body }}</p>
+        <h3>{{ page.subsection2-title }}</h3>
+        <p class="small">{{ page.subsection2-body }}</p>
+        <h3>{{ page.subsection3-title }}</h3>
+        <p class="small">{{ page.subsection3-body }}</p>
+    </div>
+</div>
