@@ -67,17 +67,14 @@
                 type:'post',
                 data:$('#contactForm').serialize(),
                 success:function(){
-                    setTimeout(function (){
-                        // $('#form-submit').html("&#10003; Your message has been sent");
-                        // $('#form-submit').removeClass();
-                        // $('#form-submit').addClass("btn btn-secondary");
-                    }, 1000);
+                    button.removeClass("form-submit");
+                    button.addClass("form-submitted");
+                    button.val("Your submission was received!");
                 },
                 error:function(){
                     button.removeClass("form-submit");
                     button.addClass("form-submitted");
                     button.val("Your submission was received!");
-                    // console.log("error");
                 }
             })
         }
