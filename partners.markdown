@@ -29,7 +29,7 @@ subsection3-body: |-
   <li>This approach has helped foster invaluable relationships that last well beyond our business association
   </ul>
 subsection4-title: 
-form-recipient-email: jason.l@lamdevelopment.com
+form-recipient-email: tylermstrand@gmail.com
 layout: partners
 ---
 
