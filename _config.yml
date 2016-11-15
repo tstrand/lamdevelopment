@@ -12,6 +12,7 @@ email: tylermstrand@gmail.com
 description: This is the official website of LAM Development
 baseurl: 
 url: 
+permalink: pretty
 twitter_username: 
 github_username: 
 markdown: kramdown
