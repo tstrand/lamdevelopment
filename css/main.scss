@@ -175,7 +175,8 @@ h5, h6 {
 .navbar-custom .navbar-toggle:focus {
 }
 .logo-header {
-  width: 91px;
+  width: 90px;
+  padding-top: 3px;
 }
 .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
   background-color: transparent;
@@ -203,7 +204,7 @@ h5, h6 {
     margin-top: -26px;
   }
   .logo-header {
-    width: 98px;
+    padding-top: 6px;
   }
 }
 .fa-bars {
