@@ -1,7 +1,7 @@
 ---
 title: LAM | Our Work
 date: 2016-08-18 01:29:00 Z
-permalink: "/work"
+permalink: /work
 position: 0
 header-text: Our Work
 subheader-text: We're bringing Solar to New York State
