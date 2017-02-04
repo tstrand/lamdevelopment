@@ -8,19 +8,3 @@ collections:
   uploads:
     title: Uploads
     output: true
-email: tylermstrand@gmail.com
-description: This is the official website of LAM Development
-baseurl: 
-url: 
-permalink: pretty
-twitter_username: 
-github_username: 
-markdown: kramdown
-theme: minima
-sass:
-  style: compressed
-gems:
-- jekyll-feed
-exclude:
-- Gemfile
-- Gemfile.lock
