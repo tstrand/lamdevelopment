@@ -262,7 +262,7 @@ p.extra-small {
   transform: translate(-50%, 0%); }
 
 @media (max-width: 768px) {
-  .no-mobile {
+  .bgvid {
     display: none; }
 
   .mobile-only {
