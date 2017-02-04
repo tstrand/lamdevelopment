@@ -4,58 +4,50 @@ layout: page
 
 <div class="row">
     <div class="col-xs-12">
-        <h2 class="solution-title">{{ page.section1-title }}</h2>
-        <hr class="divider left">
-    </div>
-</div>
-<div class="row">
-    <div class="col-lg-6 col-md-6 col-sm-6">
-        <h4>{{ page.subsection1-title }}</h4>
-        <p class="small">{{page.subsection1-body }}</p>
-    </div>
-    <div class="col-lg-6 col-md-6 col-sm-6">
-        <img src="/img/endless-panels.jpg" class="img-responsive">
-    </div>
-</div>
-<br/>
-<div class="row">
-    <div class="col-lg-12">
-    </div>
-    <div class="col-lg-6 col-md-6 col-sm-6">
-        <img src="/img/solar-pv.jpg" class="img-responsive">
-    </div>
-    <div class="col-lg-6 col-md-6 col-sm-6">
-        <h4>{{ page.subsection2-title }}</h4>
-        <p class="small">{{ page.subsection2-body }}</p>
-    </div>
-</div>
-<br/>
-<div class="row">
-    <div class="col-lg-12">
-        <h4>{{ page.subsection3-title }}</h4>
-    </div>
-    <div class="col-lg-10 col-md-10 col-sm-10">
-        <p class="small">{{ page.subsection3-body }}</p>
+        <div class="center">
+            <h2 class="background bg-darkgrey">{{ page.section1-title }}</h2>
+        </div>
     </div>
 </div>
 
+<div class="subsection-break"></div>
 
-<!-- TODO: Team -->
-<!-- <div class="span3">
-    <div class="avatar">
-        <img class="img-circle" src="img/team_member.jpg" alt="team member">
-    </div>  
-    <div class="team-name">Lucas Luck</div>
-    <div class="position">Co-Founder, CEO</div>
-    <p>
-        Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. 
-    </p>
-    <div class="social_profiles">
-        <ul class="social-bookmarks">
-            <li class="facebook"><a href="">facebook</a></li>
-            <li class="flickr"><a href="">flickr</a></li>
-            <li class="linkedin"><a href="#">linkedin</a></li>
-            <li class="twitter"><a href="#">twitter</a></li>
-        </ul>
-    </div>  
-</div> -->
+<div class="row">
+    <div class="col-lg-5 col-md-5">
+        <div class="img-bullet"></div>
+        <h4 class="background bg-darkgrey offset-right">{{ page.subsection1-title }}</h4>
+    </div>
+    <div class="col-lg-7 col-md-7">
+        <div class="text-bullet">
+            <p class="vertical-center">{{page.subsection1-body }}</p>
+        </div>
+    </div>
+</div>
+
+<div class="subsection-break"></div>
+
+<div class="row">
+    <div class="col-lg-5 col-md-5 right">
+        <div class="img-bullet right" style="background-image: url(/img/solar-pv.jpg);"></div>
+        <h4 class="background bg-darkgrey offset-left">{{ page.subsection2-title }}</h4>
+    </div>
+    <div class="col-lg-7 col-md-7">
+        <div class="text-bullet">
+            <p class="vertical-center">{{page.subsection2-body }}</p>
+        </div>
+    </div>
+</div>
+
+<div class="subsection-break"></div>
+
+<div class="row">
+    <div class="col-lg-5 col-md-5">
+        <div class="img-bullet" style="background-image: url(/img/panels.jpg);"></div>
+        <h4 class="background bg-darkgrey offset-right">{{ page.subsection3-title }}</h4>
+    </div>
+    <div class="col-lg-7 col-md-7">
+        <div class="text-bullet">
+            <p class="vertical-center">{{page.subsection3-body }}</p>
+        </div>
+    </div>
+</div>

@@ -1,36 +1,17 @@
 ---
-title: LAM | Our Story
+title: LAM | Who We Are
 date: 2016-08-18 01:29:00 Z
-permalink: /story
+permalink: /who-we-are
 position: 0
 layout: story
-header-text: Our Story
-subheader-text: We're a team of innovators bringing solar to NY
+header-text: Who We Are
+subheader-text: We're a team of innovators bringing solar to New York
 section1-title: The time for solar is now
-subsection1-title: Improved Panel Technology
-subsection1-body: Over the last decade, great strides have been made in the advancement
-  of solar technology, making them a more viable clean energy solution today. Unlike
-  previous generations, modern panels produce little to no glare, they make are quiet,
-  and new electrical systems technology allows for better monitoring of the solar
-  facility. Ultimately, modern solar energy systems are far safer and less invasive
-  than they once were, and as such are one of the most compelling renewable energy
-  options.
-subsection2-title: Deforestation
-subsection2-body: Solar farms often require a moderate amount of deforestation in
-  order to make room for the solar panels. While this as an unfortunate side effect,
-  it is more than offset by the environmental benefits of the solar facility. LAM
-  works hard to minimize the necessary deforestation, often using farmland or landfills
-  to avoid unnecessary deforestation.
-subsection3-title: Decommissioning the System
-subsection3-body: Because of the finite lifespan of solar systems, which is typically
-  around 25 years, there is often concern about what happens to the solar equipment
-  at the end of that period. Because solar farms are a relatively new technology,
-  although there are many solar farms, very few have been decommissioned. However,
-  even after the system has ceased generating power, the components still have value,
-  either as scrap or recyclables. As a result, LAM Development is able to sell the
-  rights of the system at the end of its life to a salvage company, which will remove
-  all of the equipment from the land, and sell the components for a profit. At the
-  end of the project's life, LAM guarantees to return the land to its natural state,
-  and makes sure that no component of the system remain on any part of the land.
+subsection1-title: New York’s Premier Solar Energy Developer
+subsection1-body: LAM Development’s mission is to bring clean, affordable solar energy to New York State. We believe that solar energy should be for everyone. In order to achieve this, we partner with local communities and their leaders, deploying renewable power where it is needed and appreciated the most.<br/><br/>By providing municipal governments with solar energy, LAM Development helps local communities cut their energy costs and diminish their dependence on harmful fossil fuels.
+subsection2-title: Meaningful Partnerships are Our Top Priority
+subsection2-body: The solar energy facilities LAM Development helps construct are ultimately for local communities. We work closely with local stakeholders to ensure the needs, expectations, and desires of all parties are met. LAM Development’s relation to communities transcends business, as we strive to create a strong relationship and maximized the benefits received by community members.<br/><br/>Our process is open and transparent, allowing for continual feedback from the municipality and a partnership based on trust. LAM Development always puts its clients first, and is consistently looking for ways to generate new value for the municipality.
+subsection3-title: Excellence and Expertise
+subsection3-body: LAM Development has a single mission, to bring you the very best in solar solutions. As part of working with us, you will receive world-class advice and insight to help you make the right choice for your community.<br/><br/>Our experienced team is always available to answer questions you may have at any step in the process. From the smallest technical detail to the ‘big picture’ of why invest in solar energy, LAM Development is here to guide you.
 ---
 
