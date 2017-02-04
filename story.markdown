@@ -1,7 +1,7 @@
 ---
 title: LAM | Our Story
 date: 2016-08-18 01:29:00 Z
-permalink: /story
+permalink: "/story"
 position: 0
 layout: story
 header-text: Our Story

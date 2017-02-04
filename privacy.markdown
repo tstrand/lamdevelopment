@@ -1,7 +1,7 @@
 ---
 title: LAM | Privacy Policy
 date: 2016-08-18 01:29:00 Z
-permalink: /privacy
+permalink: "/privacy"
 position: 0
 layout: page
 header-text: Privacy Policy
