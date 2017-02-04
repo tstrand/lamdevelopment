@@ -246,26 +246,25 @@ p.extra-small {
   right: 0;
   z-index: -1; }
 
-.bgvid {
-  position: absolute;
+.bg-media {
+  position: fixed;
   min-height: 100%;
   min-width: 100%;
   left: 50%;
+  z-index: -1;
   transform: translate(-50%, 0%); }
 
-.mobile-only {
-  display: none;
-  position: absolute;
-  min-height: 100%;
-  min-width: 100%;
-  left: 50%;
-  transform: translate(-50%, 0%); }
+.desktop {
+  display: block; }
+
+.mobile {
+  display: none; }
 
 @media (max-width: 768px) {
-  .bgvid {
+  .desktop {
     display: none; }
 
-  .mobile-only {
+  .mobile {
     display: block; } }
 .bg-mask {
   position: absolute;
