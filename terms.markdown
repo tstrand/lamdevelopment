@@ -1,7 +1,7 @@
 ---
 title: LAM | Terms & Conditions
 date: 2016-08-18 01:29:00 Z
-permalink: /terms
+permalink: "/terms"
 position: 0
 header-text: Terms and Conditions
 subheader-text: Last updated&#58; October 25, 2016.
