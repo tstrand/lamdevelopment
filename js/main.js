@@ -10,6 +10,18 @@
         event.preventDefault();
     });
 
+    $("#partners").hover(
+        function() {
+            if (!$('.fa-bars').is(":visible")) {
+                $(".dropdown-menu").show();
+            }
+        }, function() {
+            if (!$('.fa-bars').is(":visible")) {
+                $(".dropdown-menu").hide();
+            }
+        }
+    );
+
     // Highlight the top nav as scrolling occurs
     $('body').scrollspy({
         target: '.navbar-fixed-top',

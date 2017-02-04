@@ -9,11 +9,25 @@ layout: default
         </video>
         <!-- <img src="/img/still-hero.jpg"/ class="mobile-only"/> -->
     </div>
-    <div class="bg-mask"></div>
+    <div class="bg-mask">
+        <div class="down-arrow">
+            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 100 125" style="enable-background:new 0 0 100 100;" xml:space="preserve">
+                <style type="text/css">
+                .st0{fill:#010101;}
+                .st1{fill:none;stroke:#010101;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+                .st2{fill:none;stroke:#010101;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+                </style>
+                <g><g>
+                    <path d="M50,75.3c-0.4,0-0.8-0.1-1.1-0.4L1.4,27.3c-0.6-0.6-0.6-1.5,0-2.1c0.6-0.6,1.5-0.6,2.1,0L50,71.7l46.4-46.3    c0.6-0.6,1.5-0.6,2.1,0s0.6,1.5,0,2.1L51.1,74.8C50.8,75.1,50.4,75.3,50,75.3z"/>
+                </g></g>
+            </svg>
+        </div>
+    </div>
     <div class="header-content">
             <div class="header-content-inner">
                 <h1>{{ page.header-text }}</h1>
-                <h2>{{ page.header-subtext }}</h2>
+                <hr>
+                <h3 class="light">{{ page.header-subtext }}</h3>
             </div>
     </div>
 </header>
@@ -21,72 +35,91 @@ layout: default
 <!-- Value Prop -->
 <section>
     <div class="container">
-        <div class="row">
-            <div class="col-sm-4">
-                <div class="intro-item">
-                    <h3 class="intro-title">{{ page.bullet1-title }}</h3>
-                    <hr class="bullet">
-                    <div class="intro-summary">
-                        <p class="big center">{{ page.bullet1-body }}</p>
-                    </div>
+        <div class="row bullet">
+            <div class="col-md-4 col-lg-4">
+                <div class="bullet-icon">
+                    <img class="img-responsive" src="img/house.png">
+                </div>
+                <div class="bullet-title">
+                    <h5>{{ page.bullet1-title }}</h5>
                 </div>
             </div>
-            <div class="col-sm-4">
-                <div class="intro-item">
-                    <h3 class="intro-title">{{ page.bullet2-title }}</h3>
-                    <hr class="bullet">
-                    <div class="intro-summary">
-                        <p class="big center">{{ page.bullet2-body }}</p>
-                    </div>
+            <div class="col-md-8 col-lg-8">
+                <div class="bullet-body">
+                    <p>{{ page.bullet1-body }}</p>
                 </div>
             </div>
-            <div class="col-sm-4">
-                <div class="intro-item">
-                    <h3 class="intro-title">{{ page.bullet3-title }}</h3>
-                    <hr class="bullet">
-                    <div class="intro-summary">
-                        <p class="big center">{{ page.bullet3-body }}</p>
-                    </div>
+        </div>
+        <hr class="bullet-divider">
+        <div class="row bullet">
+            <div class="col-md-4 col-lg-4">
+                <div class="bullet-icon">
+                    <img class="img-responsive" src="img/panel.png">
+                </div>
+                <div class="bullet-title">
+                    <h5>{{ page.bullet2-title }}</h5>
+                </div>
+            </div>
+            <div class="col-md-8 col-lg-8">
+                <div class="bullet-body">
+                    <p>{{ page.bullet2-body }}</p>
+                </div>
+            </div>
+        </div>
+        <hr class="bullet-divider">
+        <div class="row bullet">
+            <div class="col-md-4 col-lg-4">
+                <div class="bullet-icon">
+                    <img class="img-responsive" src="img/bolt.png">
+                </div>
+                <div class="bullet-title">
+                    <h5>{{ page.bullet3-title }}</h5>
+                </div>
+            </div>
+            <div class="col-md-8 col-lg-8">
+                <div class="bullet-body">
+                    <p>{{ page.bullet3-body }}</p>
                 </div>
             </div>
         </div>
     </div>
 </section>
 
-<!-- Our Story Snippet -->
-<section class="offwhite">
-    <header>
-        <div class="container">
-            <div class="row">
-                <div class="col-xs-12">
-                    <h2 class="solution-title">{{ page.section1-title }}</h2>
-                    <hr class="divider left">
-                </div>
+<!-- What We Do Snippet -->
+<section class="what-we-do">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4 col-lg-4">
             </div>
-            <div class="row">
-                <div class="col-lg-4 col-md-4 col-sm-4">
-                    <img src="/img/solar-pv.jpg" class="img-responsive">
-                </div>
-                <div class="col-lg-8 col-md-8 col-sm-8">
-                    <h3 class="lowercase">{{ page.subsection1-title }}</h3>
-                    <p class="small">{{page.subsection1-body }}</p>
-                    <a href="/story">{{ page.subsection1-link }}</a>
+            <div class="col-md-8 col-lg-8">
+                <div class="section1">
+                    <h2>{{ page.section1-title }}</h2>
+                    <p>{{page.section1-body }}</p>
+                    <br/>
+                    <h5><a class="big" href="/story">{{ page.section1-link }}</a></h5>
                 </div>
             </div>
         </div>
-    </header>
+    </div>
 </section>
 
+<!-- Rogue Image -->
+<div class="pin-bottom-left">
+    <img class="img-responsive" src="img/cut-off.png">
+</div>
+
 <!-- Our Partners Snippet -->
-<section>
+<section class="offwhite">
     <div class="container">
         <div class="row">
             <div class="col-xs-12">
-                <h4 class="center">{{ page.section2-title }}</h4>
-                <h2 class="center">{{ page.section2-subtitle }}</h2>
-                <hr class="divider">
+                <div class="center">
+                    <h2 class="background-title">{{ page.section2-title }}</h2>
+                </div>
+                <h3 class="center">{{ page.section2-subtitle }}</h3>
             </div>
         </div>
+        <br/>
         <div class="row">
             <div class="col-lg-4 col-md-4 col-sm-4">
                 <div class="partner">
@@ -101,9 +134,9 @@ layout: default
             <div class="col-lg-4 col-md-4 col-sm-4">
                 <div class="partner">
                     <div class="hovereffect">
-                        <img class="img-responsive" src="/img/power.jpg" alt="">
-                        <a href="/partners#utilities" class="overlay">
-                            <h2>Utilities</h2>
+                        <img class="img-responsive" src="/img/people.jpg" alt="">
+                        <a href="/partners#communities" class="overlay">
+                            <h2>Communities</h2>
                         </a>
                     </div>
                 </div>
@@ -111,11 +144,73 @@ layout: default
             <div class="col-lg-4 col-md-4 col-sm-4">
                 <div class="partner">
                     <div class="hovereffect">
-                        <img class="img-responsive" src="/img/people.jpg" alt="">
-                        <a href="/partners#communities" class="overlay">
-                            <h2>Communities</h2>
+                        <img class="img-responsive" src="/img/power.jpg" alt="">
+                        <a href="/partners#utilities" class="overlay">
+                            <h2>Utilities</h2>
                         </a>
                     </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container" id="landowner-form">
+        <div class="row">
+            <div class="col-xs-12">
+                <h4 class="center">Calling all <span class="blue">Landowners<span></h4>
+                <hr class="divider">
+                <p class="center">Interested in partnering with LAM Development? We provide landowners with a variety of options to monetize their land, including leases and sales. Fill out the form below and we’ll be in touch.</p>
+            </div>
+        </div>
+        <div class="row">
+            <form id="contactForm" name="contactForm" action="">
+                <fieldset>
+                    <div class="col-lg-6 col-md-6 col-sm-6 pad-left">
+                        <div class="form-group">
+                            <input name="name" type="text" class="form-control" id="formName" placeholder="Name*" required>
+                            <input name="phone" type="text" class="form-control" id="formPhone" placeholder="Phone*" required>
+                            <input name="email" type="email" class="form-control" id="formEmail" placeholder="Email*" required>
+                            <input name="address" type="text" class="form-control" id="formAddress" placeholder="Address*" required>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-6 col-sm-6 pad-right">
+                        <div class="form-group">
+                            <input name="acreage" type="text" class="form-control" id="formAcreage" placeholder="Acreage*" required>
+                            <input name="parcel" type="text" class="form-control" id="formParcel" placeholder="Parcel Address*" required>
+                            <input name="parcelID" type="text" class="form-control" id="formParcelID" placeholder="Parcel ID">
+                            <input type="hidden" name="_subject" value="New Landowner Submission"/>
+                            {% if jekyll.environment == 'development' %}
+                            <input type="hidden" name="_sendto" id="_sendto" value="tylermstrand@gmail.com"/>
+                            {% else %}
+                            <input type="hidden" name="_sendto" id="_sendto" value="{{ page.form-recipient-email }}" />
+                            {% endif %}
+                        </div>
+                    </div>
+                    <div class="col-xs-12 pad-left pad-right">
+                        <input type="submit" id="form-submit" class="form-submit" value="Submit">
+                    </div>
+                </fieldset>
+            </form>
+        </div>
+    </div>
+</section>
+
+<!-- Logos -->
+<section>
+    <div class="container">
+        <div class="row">
+            <div class="img-wrapper">
+                <div class="img-inline">
+                    <img src="/img/logos/logo01.png" class="img-responsive logo">
+                </div>
+                <div class="img-inline">
+                    <img src="/img/logos/logo02.png" class="img-responsive logo">
+                </div>
+                <div class="img-inline">    
+                    <img src="/img/logos/logo03.png" class="img-responsive logo">
+                </div>
+                <div class="img-inline">
+                    <img src="/img/logos/logo04.png" class="img-responsive logo">
                 </div>
             </div>
         </div>
