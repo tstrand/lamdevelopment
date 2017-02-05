@@ -5,15 +5,8 @@ permalink: "/partners"
 position: 0
 header-text: Our Partners
 subheader-text: We're connecting the right people through solar
-section1-title: We build relationships
-subsection1-title: Landowners
-subsection1-body: |-
-  <ul>
-  <li>Monetize your land through an outright sale or lease</li>
-  <li>Providing flexibility to meet the needs of every owner</li>
-  <li>Partnering with LAM Development helps to create a clean and sustainable future for generations to come</li>
-  <li>The land we work on is left unscathed and in pristine condition upon departure</li>
-  </ul>
+subsection1-title: We're here to help
+subsection1-body: LAM Development helps municipalities cut the cost of their utility bills through a transition to clean solar energy. Utilizing our expertise, we provide the assistance your community needs to navigate all steps of the process.
 subsection2-title: Utilities
 subsection2-body: |-
   <ul>
