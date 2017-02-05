@@ -42,7 +42,7 @@
 	/*transform:translatey(-100px);*/
 	-webkit-transition:all .2s ease-in-out;
 	transition:all .2s ease-in-out;
-	padding-top:30%;
+	padding-top:22%;
 	opacity:1;
 	filter:alpha(opacity=100);
 }
