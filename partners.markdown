@@ -5,23 +5,24 @@ permalink: "/partners"
 position: 0
 header-text: Our Partners
 subheader-text: We're connecting the right people through solar
-subsection1-title: We're here to help
-subsection1-body: LAM Development helps municipalities cut the cost of their utility bills through a transition to clean solar energy. Utilizing our expertise, we provide the assistance your community needs to navigate all steps of the process.
-subsection2-title: Utilities
-subsection2-body: |-
-  <ul>
-  <li>LAM Development aligns its interest with those of the utility companies in which we operate to ensure an efficient and pleasant relationship throughout the development process
-  <li>Our friendships with the utility company's employees provide us with a distinct comparative advantage to that of our competitors
-  </ul>
-subsection3-title: Communities
-subsection3-body: |-
-  <ul>
-  <li>LAM Development operates with complete transparency to foster a relationship of trust; the crux of our business
-  <li>We only operates in areas which welcome us with open arms; we are not looking to crash any parties
-  <li>We always put our clients needs first, constantly looking for creative ways to generate value for them
-  <li>This approach has helped foster invaluable relationships that last well beyond our business association
-  </ul>
-subsection4-title: 
+subsection1-title: Take Part in the Solar Revolution
+subsection1-body: By working with LAM Development, landowners can monetize their land through a variety of agreements, while helping their communities benefit from solar energy.
+subsection1-title-2: LAM Development provides the flexibility to help meet the needs of all types of landowners, offering multiple options to convert their assets.
+subsection1-body-2: A transition to clean, cost-saving solar is ultimately a choice made by and for local residents. As a leader in solar development, we strive to foster a lasting and meaningful partnership with communities.<br/><br/>LAM Development ensures all of its projects are informed by three guiding principles-
+subsection2-title: We're here to help
+subsection2-body: LAM Development helps municipalities cut the cost of their utility bills through a transition to clean solar energy. Utilizing our expertise, we provide the assistance your community needs to navigate all steps of the process.
+subsection2-title-2: Working Together Towards a Brighter Future
+subsection2-body-2: A transition to clean, cost-saving solar is ultimately a choice made by and for local residents. As a leader in solar development, we strive to foster a lasting and meaningful partnership with communities.<br/><br/>LAM Development ensures all of its projects are informed by three guiding principles.
+subsection2-title-3: Open Dialogue with the Community
+subsection2-body-3: From the first planning meeting to the moment the solar energy facility starts to produce power, we ensure local stakeholders are involved in every aspect of the project. We engage with all parties to incorporate feedback and guarantee all needs and concerns are addressed.
+subsection2-title-4: A Local Focus
+subsection2-body-4: We understand that no two towns are alike, and that each project requires the careful consideration of a host of unique factors. With this in mind, we design each solar solution to maximize the benefits provided to the local community and tailor all plans according to local circumstance.
+subsection2-title-5: Lasting Commitment
+subsection2-body-5: LAM Development is here for the long term. We are focused on lasting relationships to guarantee your community’s transition to solar energy is a success for decades to come.
+subsection3-title: We Are Here to Help
+subsection3-body: The energy industry is in a state of incredible transition. As the technologies of tomorrow become the energy resources of today, there is near unlimited opportunities available.
+subsection3-title-2: However, nothing can be accomplished if we fail to include the bedrock of our energy systems - utilities.
+subsection3-body-2: This is why LAM Development works to align its interests with those of local utility companies. By working closely with the utilities whose load zones we operate in, we hope to ensure an efficient and pleasant partnership between the local community, the utility, and us.<br/><br/>As a part of every solar project we help create, Lam Development seeks to increase the benefits to both the local and regional grids.<br/><br/>Our close relationship to utility companies gives us a distinct comparative edge over our competitors, assuring the transition to renewable energy will be simple, seamless, and hassle-free.
 form-recipient-email: land.leads@lamdevelopment.com
 layout: partners
 ---

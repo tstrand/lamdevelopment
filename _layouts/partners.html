@@ -4,8 +4,8 @@ layout: page
 
 <div class="center">
     <ul class="nav nav-pills">
-        <li class="active"><a data-toggle="pill" href="#home">Communities</a></li>
-        <li><a data-toggle="pill" href="/partners#landowners">Landowners</a></li>
+        <li class="active"><a data-toggle="pill" href="/partners#landowners">Landowners</a></li>
+        <li><a data-toggle="pill" href="/partners#communities">Communities</a></li>
         <li><a data-toggle="pill" href="/partners#utilities">Utilities</a></li>
     </ul>
 </div>
@@ -13,54 +13,7 @@ layout: page
 <div class="subsection-break"></div>
 
 <div class="tab-content">
-    <div id="home" class="tab-pane fade in active">
-        <div class="row">
-            <div class="col-lg-7 col-md-6">
-                <div class="img-bullet" style="background-image: url(/img/people.jpg);"></div>
-                <h4 class="background bg-darkgrey white offset-right">{{ page.subsection1-title }}</h4>
-            </div>
-            <div class="col-lg-5 col-md-6">
-                <div class="text-bullet">
-                   <p class="vertical-center">{{page.subsection1-body }}</p>
-               </div>
-            </div>
-        </div>
-        <hr class="bullet-divider">
-        <div class="row">
-            <h3 class="center lowercase">Working Together Towards a Brighter Future</h3>
-            <p class="center">A transition to clean, cost-saving solar is ultimately a choice made by and for local residents. As a leader in solar development, we strive to foster a lasting and meaningful partnership with communities.</p>
-            <p class="center">LAM Development ensures all of its projects are informed by three guiding principles:</p>
-        </div>
-        <div class="subsection-break"></div>
-        <div class="row">
-            <div class="col-lg-12">
-                <div class="background bg-medgrey">
-                    <h4>Open Dialogue with the Community</h4>
-                    <p>From the first planning meeting to the moment the solar energy facility starts to produce power, we ensure local stakeholders are involved in every aspect of the project. We engage with all parties to incorporate feedback and guarantee all needs and concerns are addressed.</p>
-                </div>
-            </div>
-        </div>
-        <br/>
-        <div class="row">
-            <div class="col-lg-12">
-                <div class="background bg-medgrey">
-                    <h4>Open Dialogue with the Community</h4>
-                    <p>From the first planning meeting to the moment the solar energy facility starts to produce power, we ensure local stakeholders are involved in every aspect of the project. We engage with all parties to incorporate feedback and guarantee all needs and concerns are addressed.</p>
-                </div>
-            </div>
-        </div>
-        <br/>
-        <div class="row">
-            <div class="col-lg-12">
-                <div class="background bg-medgrey">
-                    <h4>Open Dialogue with the Community</h4>
-                    <p>From the first planning meeting to the moment the solar energy facility starts to produce power, we ensure local stakeholders are involved in every aspect of the project. We engage with all parties to incorporate feedback and guarantee all needs and concerns are addressed.</p>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <div id="landowners" class="tab-pane fade">
+    <div id="landowners" class="tab-pane fade in active">
         <div class="row">
             <div class="col-lg-7 col-md-6">
                 <div class="img-bullet" style="background-image: url(/img/land.jpg);"></div>
@@ -68,15 +21,99 @@ layout: page
             </div>
             <div class="col-lg-5 col-md-6">
                 <div class="text-bullet">
-                   <p class="vertical-center">{{page.subsection1-body }}</p>
+                   <p class="vertical-center">{{ page.subsection1-body }}</p>
                </div>
             </div>
         </div>
         <div class="row">
             <div class="col-lg-12">
-                <h3 class="lowercase">Working Together Towards a Brighter Future</h3>
-                <p>A transition to clean, cost-saving solar is ultimately a choice made by and for local residents. As a leader in solar development, we strive to foster a lasting and meaningful partnership with communities.</p>
-                <p>LAM Development ensures all of its projects are informed by three guiding principles:</p>
+                <h5 class="lowercase">{{ page.subsection1-title-2 }}</h5>
+                <p>{{ page.subsection1-body-2 }}</p>
+            </div>
+        </div>
+        <div class="subsection-break"></div>
+
+        <div class="row">
+            <div class="col-xs-12">
+                <h4 class="center">Calling all <span class="blue">Landowners<span></h4>
+                <hr class="divider">
+                <p class="center">Interested in partnering with LAM Development? We provide landowners with a variety of options to monetize their land, including leases and sales. Fill out the form below and we’ll be in touch.</p>
+            </div>
+        </div>
+        <div class="row">
+            <form id="contactForm" name="contactForm" action="">
+                <fieldset>
+                    <div class="col-lg-6 col-md-6 col-sm-6 pad-left">
+                        <div class="form-group">
+                            <input name="name" type="text" class="form-control" id="formName" placeholder="Name*" required>
+                            <input name="phone" type="text" class="form-control" id="formPhone" placeholder="Phone*" required>
+                            <input name="email" type="email" class="form-control" id="formEmail" placeholder="Email*" required>
+                            <input name="address" type="text" class="form-control" id="formAddress" placeholder="Address*" required>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-6 col-sm-6 pad-right">
+                        <div class="form-group">
+                            <input name="acreage" type="text" class="form-control" id="formAcreage" placeholder="Acreage*" required>
+                            <input name="parcel" type="text" class="form-control" id="formParcel" placeholder="Parcel Address*" required>
+                            <input name="parcelID" type="text" class="form-control" id="formParcelID" placeholder="Parcel ID">
+                            <input type="hidden" name="_subject" value="New Landowner Submission"/>
+                            {% if jekyll.environment == 'development' %}
+                            <input type="hidden" name="_sendto" id="_sendto" value="tylermstrand@gmail.com"/>
+                            {% else %}
+                            <input type="hidden" name="_sendto" id="_sendto" value="{{ page.form-recipient-email }}" />
+                            {% endif %}
+                        </div>
+                    </div>
+                    <div class="col-xs-12 pad-left pad-right">
+                        <input type="submit" id="form-submit" class="form-submit" value="Submit">
+                    </div>
+                </fieldset>
+            </form>
+        </div>
+    </div>
+
+    <div id="communities" class="tab-pane fade">
+        <div class="row">
+            <div class="col-lg-7 col-md-6">
+                <div class="img-bullet" style="background-image: url(/img/people.jpg);"></div>
+                <h4 class="background bg-darkgrey white offset-right">{{ page.subsection2-title }}</h4>
+            </div>
+            <div class="col-lg-5 col-md-6">
+                <div class="text-bullet">
+                   <p class="vertical-center">{{page.subsection2-body }}</p>
+               </div>
+            </div>
+        </div>
+        <hr class="bullet-divider">
+        <div class="row">
+            <h3 class="center lowercase">{{ page.subsection2-title-2 }}</h3>
+            <p class="center">{{ page.subsection2-body-2 }}</p>
+        </div>
+        <div class="subsection-break"></div>
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="background bg-medgrey">
+                    <h4>{{ page.subsection2-title-3 }}</h4>
+                    <p>{{ page.subsection2-body-3 }}</p>
+                </div>
+            </div>
+        </div>
+        <br/>
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="background bg-medgrey">
+                    <h4>{{ page.subsection2-title-4 }}</h4>
+                    <p>{{ page.subsection2-body-4 }}</p>
+                </div>
+            </div>
+        </div>
+        <br/>
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="background bg-medgrey">
+                    <h4>{{ page.subsection2-title-5 }}</h4>
+                    <p>{{ page.subsection2-body-5 }}</p>
+                </div>
             </div>
         </div>
     </div>
@@ -85,19 +122,18 @@ layout: page
         <div class="row">
             <div class="col-lg-7 col-md-6">
                 <div class="img-bullet" style="background-image: url(/img/power.jpg);"></div>
-                <h4 class="background bg-darkgrey white offset-right">{{ page.subsection1-title }}</h4>
+                <h4 class="background bg-darkgrey white offset-right">{{ page.subsection3-title }}</h4>
             </div>
             <div class="col-lg-5 col-md-6">
                 <div class="text-bullet">
-                   <p class="vertical-center">{{page.subsection1-body }}</p>
+                   <p class="vertical-center">{{ page.subsection3-body }}</p>
                </div>
             </div>
         </div>
         <div class="row">
             <div class="col-lg-12">
-                <h3 class="lowercase">Working Together Towards a Brighter Future</h3>
-                <p>A transition to clean, cost-saving solar is ultimately a choice made by and for local residents. As a leader in solar development, we strive to foster a lasting and meaningful partnership with communities.</p>
-                <p>LAM Development ensures all of its projects are informed by three guiding principles:</p>
+                <h5 class="lowercase">{{ page.subsection3-title-2 }}</h5>
+                <p>{{ page.subsection3-body-2 }}</p>
             </div>
         </div>
     </div>

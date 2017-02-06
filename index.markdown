@@ -30,6 +30,7 @@ section1-body: LAM Development brings solar power to local town and city governm
 section1-link: Read more about us &rarr;
 section2-title: We bring people together
 section2-subtitle: to create a brighter future
+form-recipient-email: land.leads@lamdevelopment.com
 layout: index
 ---
 
