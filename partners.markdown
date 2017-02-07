@@ -14,8 +14,10 @@ subsection1-title-2: LAM Development provides the flexibility to help meet the n
 subsection1-body-2: 'Through a partnership with LAM Development, your land will be
   used to provide clean, sustainable energy for generations to come. Your relationship
   with us will improve your local community, lower municipal energy costs, and help
-  bring about a brighter future.<br/><br/>LAM Development ensures all of its projects
-  are informed by three guiding principles:'
+  bring about a brighter future.<br/><br/>LAM Development works hard to ensure that
+  any aesthetic or conservational concerns are addressed throughout the solar farm''s
+  life. The land we utilize is left unscathed, and in pristine condition upon the
+  removal of the facility, allowing it to be returned to its original use. '
 subsection2-title: We're here to help
 subsection2-body: LAM Development helps municipalities cut the cost of their utility
   bills through a transition to clean solar energy. Utilizing our expertise, we provide
