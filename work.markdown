@@ -14,10 +14,10 @@ subsection1-body: LAM Development believes solar energy should be available to e
 subsection2-title: We Bring You the Best in the Business
 subsection2-body: In order to bring solar energy to local communities, we leverage
   our vast network of partnerships with utilities, construction firms, and real estate
-  companies to quickly and efficiently meet the energy needs of our clients.<br/><br/>Our
-  knowledge and expertise as the region’s premier solar developer allows us to bring
-  together the most capable firms in each field to bring together the best practices
-  and results.
+  companies to quickly and efficiently meet the energy needs of our clients.<br/><br/>LAM
+  Development's knowledge and expertise as the region's premier solar developer allows
+  us to work with the most capable firms in each field and bring together the best
+  practices and results.
 subsection3-title: Lasting Partnerships For Lasting Results
 subsection3-body: We understand that residents know what is best for their own municipality.
   Therefore, we approach each solar project as an opportunity to collaborate with
