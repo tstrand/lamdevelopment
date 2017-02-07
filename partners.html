@@ -33,6 +33,17 @@
     <link href="/css/hover.css" rel="stylesheet">
 
     <link rel="icon" href="/img/favicon.png" type="image/x-icon"/>
+
+    <!-- Google Analytics -->
+    <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-91563704-1', 'auto');
+        ga('send', 'pageview');
+    </script>
 </head>
 
 
@@ -67,7 +78,7 @@
                         </a>
                     </li>
                     <li class="page-scroll">
-                        <a href="/work">
+                        <a href="/what-we-do">
                             <div class="upper">What</div>
                             <div class="lower">We Do</div>
                         </a>
@@ -112,59 +123,140 @@
 
 <section>
     <div class="container">
-		        <div class="row">
+		<div class="center">
+    <ul class="nav nav-pills">
+        <li class="active"><a data-toggle="pill" href="/partners#landowners">Landowners</a></li>
+        <li><a data-toggle="pill" href="/partners#communities">Communities</a></li>
+        <li><a data-toggle="pill" href="/partners#utilities">Utilities</a></li>
+    </ul>
+</div>
+
+<div class="subsection-break"></div>
+
+<div class="tab-content">
+    <div id="landowners" class="tab-pane fade in active">
+        <div class="row">
+            <div class="col-lg-7 col-md-6">
+                <div class="img-bullet" style="background-image: url(/img/land.jpg);"></div>
+                <h4 class="background bg-darkgrey white offset-right">Take Part in the Solar Revolution</h4>
+            </div>
+            <div class="col-lg-5 col-md-6">
+                <div class="text-bullet">
+                   <p class="vertical-center">By working with LAM Development, landowners can monetize their land through a variety of agreements, while helping their communities benefit from solar energy.</p>
+               </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-12">
+                <h5 class="lowercase">LAM Development provides the flexibility to help meet the needs of all types of landowners, offering multiple options to convert their assets.</h5>
+                <p>A transition to clean, cost-saving solar is ultimately a choice made by and for local residents. As a leader in solar development, we strive to foster a lasting and meaningful partnership with communities.<br/><br/>LAM Development ensures all of its projects are informed by three guiding principles-</p>
+            </div>
+        </div>
+        <div class="subsection-break"></div>
+
+        <div class="row">
             <div class="col-xs-12">
-                <h2 class="solution-title">We build relationships</h2>
-                <hr class="divider left">
+                <h4 class="center">Calling all <span class="blue">Landowners<span></h4>
+                <hr class="divider">
+                <p class="center">Interested in partnering with LAM Development? We provide landowners with a variety of options to monetize their land, including leases and sales. Fill out the form below and we’ll be in touch.</p>
             </div>
         </div>
         <div class="row">
-            <div class="col-lg-12">
-                <h3 id="landowners">Landowners</h3>
+            <form id="contactForm" name="contactForm" action="">
+                <fieldset>
+                    <div class="col-lg-6 col-md-6 col-sm-6 pad-left">
+                        <div class="form-group">
+                            <input name="name" type="text" class="form-control" id="formName" placeholder="Name*" required>
+                            <input name="phone" type="text" class="form-control" id="formPhone" placeholder="Phone*" required>
+                            <input name="email" type="email" class="form-control" id="formEmail" placeholder="Email*" required>
+                            <input name="address" type="text" class="form-control" id="formAddress" placeholder="Address*" required>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-6 col-sm-6 pad-right">
+                        <div class="form-group">
+                            <input name="acreage" type="text" class="form-control" id="formAcreage" placeholder="Acreage*" required>
+                            <input name="parcel" type="text" class="form-control" id="formParcel" placeholder="Parcel Address*" required>
+                            <input name="parcelID" type="text" class="form-control" id="formParcelID" placeholder="Parcel ID">
+                            <input type="hidden" name="_subject" value="New Landowner Submission"/>
+                            
+                            <input type="hidden" name="_sendto" id="_sendto" value="land.leads@lamdevelopment.com" />
+                            
+                        </div>
+                    </div>
+                    <div class="col-xs-12 pad-left pad-right">
+                        <input type="submit" id="form-submit" class="form-submit" value="Submit">
+                    </div>
+                </fieldset>
+            </form>
+        </div>
+    </div>
+
+    <div id="communities" class="tab-pane fade">
+        <div class="row">
+            <div class="col-lg-7 col-md-6">
+                <div class="img-bullet" style="background-image: url(/img/people.jpg);"></div>
+                <h4 class="background bg-darkgrey white offset-right">We're here to help</h4>
             </div>
-            <div class="col-lg-10 col-md-10 col-sm-10">
-                <p class="small"><ul>
-<li>Monetize your land through an outright sale or lease</li>
-<li>Providing flexibility to meet the needs of every owner</li>
-<li>Partnering with LAM Development helps to create a clean and sustainable future for generations to come</li>
-<li>The land we work on is left unscathed and in pristine condition upon departure</li>
-</ul></p>
+            <div class="col-lg-5 col-md-6">
+                <div class="text-bullet">
+                   <p class="vertical-center">LAM Development helps municipalities cut the cost of their utility bills through a transition to clean solar energy. Utilizing our expertise, we provide the assistance your community needs to navigate all steps of the process.</p>
+               </div>
             </div>
         </div>
+        <hr class="bullet-divider">
+        <div class="row">
+            <h3 class="center lowercase">Working Together Towards a Brighter Future</h3>
+            <p class="center">A transition to clean, cost-saving solar is ultimately a choice made by and for local residents. As a leader in solar development, we strive to foster a lasting and meaningful partnership with communities.<br/><br/>LAM Development ensures all of its projects are informed by three guiding principles.</p>
+        </div>
+        <div class="subsection-break"></div>
         <div class="row">
             <div class="col-lg-12">
-                <h3 id="utilities">Utilities</h3>
-            </div>
-            <div class="col-lg-10 col-md-10 col-sm-10">
-                <p class="small"><ul>
-<li>LAM Development aligns its interest with those of the utility companies in which we operate to ensure an efficient and pleasant relationship throughout the development process
-<li>Our friendships with the utility company's employees provide us with a distinct comparative advantage to that of our competitors
-</ul></p>
+                <div class="background bg-medgrey">
+                    <h4>Open Dialogue with the Community</h4>
+                    <p>From the first planning meeting to the moment the solar energy facility starts to produce power, we ensure local stakeholders are involved in every aspect of the project. We engage with all parties to incorporate feedback and guarantee all needs and concerns are addressed.</p>
+                </div>
             </div>
         </div>
+        <br/>
         <div class="row">
             <div class="col-lg-12">
-                <h3 id="communities">Communities</h3>
-            </div>
-            <div class="col-lg-10 col-md-10 col-sm-10">
-                <p class="small"><ul>
-<li>LAM Development operates with complete transparency to foster a relationship of trust; the crux of our business
-<li>We only operates in areas which welcome us with open arms; we are not looking to crash any parties
-<li>We always put our clients needs first, constantly looking for creative ways to generate value for them
-<li>This approach has helped foster invaluable relationships that last well beyond our business association
-</ul></p>
+                <div class="background bg-medgrey">
+                    <h4>A Local Focus</h4>
+                    <p>We understand that no two towns are alike, and that each project requires the careful consideration of a host of unique factors. With this in mind, we design each solar solution to maximize the benefits provided to the local community and tailor all plans according to local circumstance.</p>
+                </div>
             </div>
         </div>
+        <br/>
         <div class="row">
             <div class="col-lg-12">
-                <h3 id="investors"></h3>
-            </div>
-            <div class="col-lg-10 col-md-10 col-sm-10">
-                <p class="small"></p>
+                <div class="background bg-medgrey">
+                    <h4>Lasting Commitment</h4>
+                    <p>LAM Development is here for the long term. We are focused on lasting relationships to guarantee your community’s transition to solar energy is a success for decades to come.</p>
+                </div>
             </div>
         </div>
     </div>
-</section>
+
+    <div id="utilities" class="tab-pane fade">
+        <div class="row">
+            <div class="col-lg-7 col-md-6">
+                <div class="img-bullet" style="background-image: url(/img/power.jpg);"></div>
+                <h4 class="background bg-darkgrey white offset-right">We Are Here to Help</h4>
+            </div>
+            <div class="col-lg-5 col-md-6">
+                <div class="text-bullet">
+                   <p class="vertical-center">The energy industry is in a state of incredible transition. As the technologies of tomorrow become the energy resources of today, there is near unlimited opportunities available.</p>
+               </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-12">
+                <h5 class="lowercase">However, nothing can be accomplished if we fail to include the bedrock of our energy systems - utilities.</h5>
+                <p>This is why LAM Development works to align its interests with those of local utility companies. By working closely with the utilities whose load zones we operate in, we hope to ensure an efficient and pleasant partnership between the local community, the utility, and us.<br/><br/>As a part of every solar project we help create, Lam Development seeks to increase the benefits to both the local and regional grids.<br/><br/>Our close relationship to utility companies gives us a distinct comparative edge over our competitors, assuring the transition to renewable energy will be simple, seamless, and hassle-free.</p>
+            </div>
+        </div>
+    </div>
+</div>
 	</div>
 </section>
 

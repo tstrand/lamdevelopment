@@ -1,9 +1,15 @@
 /* Colors */
-.white { color: #f7fcff; }
+.white { color: white; }
 
 .light-grey { color: #B0BDC5; }
 
 .blue { color: #638396; }
+
+.bg-offwhite { background-color: #F8F8F8; }
+
+.bg-white { background-color: white; }
+
+.bg-medgrey { background-color: #F2F2F2; }
 
 /* Global */
 body { font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif; overflow-x: hidden; background: #2f3c46; color: #3E3E3E; }
@@ -36,9 +42,21 @@ h5, h6 { font-weight: 300; }
 
 .center { max-width: 700px; margin-left: auto; margin-right: auto; text-align: center; }
 
+.vertical-center-always { position: absolute; top: 50%; transform: translateY(-50%); }
+
 @media (min-width: 992px) { .vertical-center { position: absolute; top: 50%; transform: translateY(-50%); } }
 @media (max-width: 768px) { .center { max-width: 500px; } }
 .lowercase { text-transform: none; }
+
+.no-margin { margin: 0px !important; }
+
+.no-margin-right { margin-right: 0px !important; }
+
+.no-margin-left { margin-left: 0px !important; }
+
+.align-left { text-align: left !important; }
+
+.align-right { text-align: right !important; }
 
 /* Nav ------------------------- */
 .navbar-custom { background: #F8F8F8; font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif; text-transform: uppercase; font-weight: 700; border: none; border-bottom: 1px solid #B0BDC5; }
@@ -98,8 +116,6 @@ h5 { font-size: 22px; }
 @media (max-width: 767px) { section { padding: 25px 0; }
   h2 { font-size: 2.5em; }
   h3 { font-size: 1.8em; } }
-.bg-offwhite { background-color: #F8F8F8; }
-
 .what-we-do { background-image: url(/img/solar-panels-in-field-121.jpg); background-repeat: no-repeat; background-position: center center; background-size: cover; }
 
 /* Header */
@@ -138,7 +154,7 @@ h5 { font-size: 22px; }
 .partner { padding: 15px; margin-bottom: 20px; }
 
 @media (max-width: 767px) { .section1 h2, .section1 h5 { text-align: center; } }
-.background { display: inline-block; padding-left: 10px; padding: 15px; color: white; }
+.background { display: inline-block; padding-left: 10px; padding: 15px; }
 
 .bg-blue { background-color: #638396; }
 
@@ -156,7 +172,7 @@ h5 { font-size: 22px; }
 /* Who Are We ----------------------------- */
 .img-bullet { height: 350px; width: 80%; background-image: url("/img/endless-panels.jpg"); background-repeat: no-repeat; background-position: center; background-size: cover; }
 
-.text-bullet { height: 350px; margin: 10px; }
+.text-bullet, .work-bullet { height: 350px; margin: 10px; }
 
 .offset-right { position: absolute; top: 50%; left: 100%; transform: translate(-100%, -55%); border: 5px solid #f7fcff; width: 300px; }
 
@@ -168,6 +184,18 @@ h5 { font-size: 22px; }
 .pin-bottom-left { width: 350px; position: absolute; transform: translateY(-100%); }
 
 @media (max-width: 991px) { .pin-bottom-left { display: none; } }
+/* What We Do ------------------------ */
+.img-left { position: absolute; height: 350px; }
+
+.img-right { position: absolute; height: 350px; right: 0px; }
+
+.work-title { height: 350px; }
+
+.work-bullet { margin-top: 0px; margin-bottom: 0px; }
+
+@media (max-width: 991px) { .img-left, .img-right { height: 260px; }
+  .work-title { height: 260px; margin-left: 50px; margin-right: 50px; padding-top: 65px; }
+  .work-bullet { margin: 0px; margin-top: 20px; margin-bottom: 20px; height: auto; } }
 /* Form */
 #landowner-form { padding-top: 50px; }
 
@@ -191,6 +219,16 @@ fieldset { margin-top: 20px; }
   .pad-right { padding-right: 200px; } }
 .error { color: #d25b5b; font-style: italic; font-weight: 600; margin-bottom: 0px; }
 
+/* Partners --------------------------------------------- */
+.nav-pills { display: inline-block; }
+
+.nav-pills > li { width: auto; margin: 5px; margin-left: 10px; margin-right: 10px; }
+
+.nav-pills > li > a, .nav-pills > li > a { padding: 12px; border-radius: 24px; display: inline-block; }
+
+.nav-pills > li.active > a, .nav-pills > li.active > a:focus, .nav-pills > li.active > a:hover { background-color: #638396; }
+
+@media (max-width: 767px) { .nav-pills > li { float: none; } }
 /* Logos ------------------------------------------------ */
 .img-wrapper { width: 100%; text-align: center; }
 
