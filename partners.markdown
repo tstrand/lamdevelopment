@@ -11,10 +11,11 @@ subsection1-body: By working with LAM Development, landowners can monetize their
   energy.
 subsection1-title-2: LAM Development provides the flexibility to help meet the needs
   of all types of landowners, offering multiple options to convert their assets.
-subsection1-body-2: 'A transition to clean, cost-saving solar is ultimately a choice
-  made by and for local residents. As a leader in solar development, we strive to
-  foster a lasting and meaningful partnership with communities.<br/><br/>LAM Development
-  ensures all of its projects are informed by three guiding principles:'
+subsection1-body-2: 'Through a partnership with LAM Development, your land will be
+  used to provide clean, sustainable energy for generations to come. Your relationship
+  with us will improve your local community, lower municipal energy costs, and help
+  bring about a brighter future.<br/><br/>LAM Development ensures all of its projects
+  are informed by three guiding principles:'
 subsection2-title: We're here to help
 subsection2-body: LAM Development helps municipalities cut the cost of their utility
   bills through a transition to clean solar energy. Utilizing our expertise, we provide
