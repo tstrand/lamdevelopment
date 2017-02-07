@@ -41,7 +41,7 @@ subsection2-title-5: Lasting Commitment
 subsection2-body-5: LAM Development is here for the long term. We are focused on lasting
   relationships to guarantee your community’s switch to cost-saving, renewable energy
   is a success for decades to come.
-subsection3-title: We Are Here to Help
+subsection3-title: Helping Navigate the energy landscape
 subsection3-body: The energy industry is in a state of incredible transition. As the
   technologies of tomorrow become the energy resources of today, there is near unlimited
   opportunities available.
