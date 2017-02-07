@@ -20,10 +20,10 @@ subsection2-body: LAM Development helps municipalities cut the cost of their uti
   bills through a transition to clean solar energy. Utilizing our expertise, we provide
   the assistance your community needs to navigate all steps of the process.
 subsection2-title-2: Working Together Towards a Brighter Future
-subsection2-body-2: A transition to clean, cost-saving solar is ultimately a choice
+subsection2-body-2: 'A transition to clean, cost-saving solar is ultimately a choice
   made by and for local residents. As a leader in solar development, we strive to
   foster a lasting and meaningful partnership with communities.<br/><br/>LAM Development
-  ensures all of its projects are informed by three guiding principles.
+  ensures all of its projects are informed by three guiding principles:'
 subsection2-title-3: Open Dialogue with the Community
 subsection2-body-3: From the first planning meeting to the moment the solar energy
   facility starts to produce power, we ensure local stakeholders are involved in every
@@ -48,7 +48,7 @@ subsection3-body-2: This is why LAM Development works to align its interests wit
   those of local utility companies. By working closely with the utilities whose load
   zones we operate in, we hope to ensure an efficient and pleasant partnership between
   the local community, the utility, and us.<br/><br/>As a part of every solar project
-  we help create, Lam Development seeks to increase the benefits to both the local
+  we help create, LAM Development seeks to increase the benefits to both the local
   and regional grids.<br/><br/>Our close relationship to utility companies gives us
   a distinct comparative edge over our competitors, assuring the transition to renewable
   energy will be simple, seamless, and hassle-free.
