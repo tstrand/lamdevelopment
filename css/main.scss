@@ -245,16 +245,21 @@ h5, h6 {
 .upper {
   color: $light-grey;
 }
-
-.header-social, .header-info {
+@media (max-width: 767px) {
+  .upper, .lower {
+    display: inline-block;
+    color: black;
+  }
+}
+.header-social, .header-info, .faq {
   color: $grey;
   display: none;
 }
-.header-social a {
+.header-social a, .faq a {
   color: $light-grey;
 }
 @media (min-width: 992px) {
-  .header-social {
+  .header-social, .faq {
     display: block;
     height: 40px;
     padding-top: 8px;
@@ -262,6 +267,7 @@ h5, h6 {
     float: right;
     border-right: 1px solid $light-grey;
     padding-right: 10px;
+    padding-left: 10px;
   }
 }
 @media (min-width: 768px) {
