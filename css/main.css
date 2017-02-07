@@ -91,11 +91,12 @@ h5, h6 { font-weight: 300; }
 
 .upper { color: #B0BDC5; }
 
-.header-social, .header-info { color: #818179; display: none; }
+@media (max-width: 767px) { .upper, .lower { display: inline-block; color: black; } }
+.header-social, .header-info, .faq { color: #818179; display: none; }
 
-.header-social a { color: #B0BDC5; }
+.header-social a, .faq a { color: #B0BDC5; }
 
-@media (min-width: 992px) { .header-social { display: block; height: 40px; padding-top: 8px; vertical-align: center; float: right; border-right: 1px solid #B0BDC5; padding-right: 10px; } }
+@media (min-width: 992px) { .header-social, .faq { display: block; height: 40px; padding-top: 8px; vertical-align: center; float: right; border-right: 1px solid #B0BDC5; padding-right: 10px; padding-left: 10px; } }
 @media (min-width: 768px) { .header-info { display: block; float: left; }
   .header-info a { text-transform: lowercase; color: #818179; font-weight: 300; } }
 .down-arrow { width: 100%; text-align: center; position: absolute; bottom: 0px; }
