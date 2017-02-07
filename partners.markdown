@@ -4,7 +4,7 @@ date: 2016-08-18 01:29:00 Z
 permalink: "/partners"
 position: 0
 header-text: Our Partners
-subheader-text: Connecting the right people through solar
+subheader-text: Connecting people through solar
 subsection1-title: Take Part in the Solar Revolution
 subsection1-body: By working with LAM Development, landowners can monetize their land
   through a variety of agreements, while helping their communities benefit from solar
