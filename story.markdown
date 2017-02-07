@@ -3,17 +3,17 @@ title: LAM | Who We Are
 date: 2016-08-18 01:29:00 Z
 permalink: "/who-we-are"
 position: 0
-layout: story
 header-text: Who We Are
-subheader-text: We're a team of innovators bringing solar to New York
+subheader-text: A team of solar energy experts and innovators
 section1-title: The time for solar is now
 subsection1-title: New York’s Premier Solar Energy Developer
-subsection1-body: LAM Development’s mission is to bring clean, affordable solar energy
-  to New York State. We believe that solar energy should be for everyone. In order
-  to achieve this, we partner with local communities and their leaders, deploying
-  renewable power where it is needed and appreciated the most.<br/><br/>By providing
-  municipal governments with solar energy, LAM Development helps local communities
-  cut their energy costs and diminish their dependence on harmful fossil fuels.
+subsection1-body: The solar energy facilities LAM Development helps to develop are
+  ultimately for the communities. We work closely with local stakeholders to ensure
+  the needs, expectations, and desires of all parties are met. LAM Development’s connections
+  with communities transcend business. We create strong relationships to maximize
+  the benefits received by community members.<br/><br/>By providing municipal governments
+  with solar energy, LAM Development helps local communities cut their energy costs
+  and diminish their dependence on harmful fossil fuels.
 subsection2-title: Meaningful Partnerships are Our Top Priority
 subsection2-body: The solar energy facilities LAM Development helps construct are
   ultimately for local communities. We work closely with local stakeholders to ensure
@@ -30,5 +30,6 @@ subsection3-body: LAM Development has a single mission, to bring you the very be
   team is always available to answer questions you may have at any step in the process.
   From the smallest technical detail to the ‘big picture’ of why invest in solar energy,
   LAM Development is here to guide you.
+layout: story
 ---
 
