@@ -4,14 +4,14 @@ date: 2016-08-18 01:29:00 Z
 permalink: "/who-we-are"
 position: 0
 header-text: Who We Are
-subheader-text: A team of solar energy experts and innovators
+subheader-text: Solar energy experts and innovators
 section1-title: The time for solar is now
 subsection1-title: New York’s Premier Solar Energy Developer
 subsection1-body: The solar energy facilities LAM Development helps to develop are
   ultimately for the communities. We work closely with local stakeholders to ensure
   the needs, expectations, and desires of all parties are met. LAM Development’s connections
   with communities transcend business. We create strong relationships to maximize
-  the benefits received by community members.<br/><br/>By providing municipal governments
+  the benefits received by community members. <br/><br/>By providing municipal governments
   with solar energy, LAM Development helps local communities cut their energy costs
   and diminish their dependence on harmful fossil fuels.
 subsection2-title: Meaningful Partnerships are Our Top Priority
