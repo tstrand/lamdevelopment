@@ -2,12 +2,12 @@
 title: LAM Development
 timezone: UTC
 collections:
-  questions:
-    title: Questions
-    output: false
   posts:
     title: Posts
     output: true
+  questions:
+    title: Questions
+    output: false
   uploads:
     title: Uploads
     output: true
