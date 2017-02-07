@@ -4,7 +4,7 @@ date: 2016-08-18 01:29:00 Z
 permalink: "/what-we-do"
 position: 0
 header-text: What We Do
-subheader-text: We're bringing Solar to New York State
+subheader-text: Bringing Solar to New York State
 subsection1-title: Local Action That Benefits Your Community
 subsection1-body: LAM Development believes solar energy should be available to everyone.
   We focus on bringing cost-saving renewable power to local municipalities, enabling
@@ -25,15 +25,15 @@ subsection3-body: We understand that residents know what is best for their own m
   of all stakeholders, and maximize the positive results for everyone involved. We
   are here to listen, learn, and help craft the best possible solar solution.
 subsection4-title: We Make Solar Easy
-subsection4-body: Our process begins by working with the municipality to identify
-  its energy needs and determine if solar energy is the right option for the community.
-  Then, in conjunction with the utility company and the town, we find the optimal
-  site for a solar project that meets all parties’ requirements.<br/><br/>At this
-  point we survey the land, design the facility, and verify the planning conforms
-  to land use regulations, all the while informing the municipality of progress and
-  tailoring the project based on valued feedback. Once all approvals are received
-  and the municipality gives the final ok, the solar farm is built and immediately
-  provides affordable, renewable energy.
+subsection4-body: LAM Development begins each project by working with the community
+  to identify its energy needs and determine if solar is the right option. Then, in
+  conjunction with the utility company and the municipality, we find the optimal site
+  for a solar project that meets all parties’ requirements.<br/><br/>At this point
+  we survey the land, design the facility, and verify the planning conforms to land
+  use regulations, all the while informing the municipality of progress and tailoring
+  the project based on valued feedback. Once all approvals are received and the municipality
+  gives the final ok, the solar farm is built and immediately provides affordable,
+  renewable energy.
 subsection5-title: The Time For Solar Is Now
 subsection5-body: LAM Development understands the immense potential for solar energy
   in New York State. Over the last few years, incredible strides in the advancement
