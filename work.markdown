@@ -19,7 +19,7 @@ subsection2-body: In order to bring solar energy to local communities, we levera
   us to work with the most capable firms in each field and bring together the best
   practices and results.
 subsection3-title: Lasting Partnerships For Lasting Results
-subsection3-body: We understand that residents know what is best for their own municipality.
+subsection3-body: We understand that residents know what is best for their own community.
   Therefore, we approach each solar project as an opportunity to collaborate with
   the community. LAM Development works to understand the unique needs and desires
   of all stakeholders, and maximize the positive results for everyone involved. We
@@ -28,16 +28,15 @@ subsection4-title: We Make Solar Easy
 subsection4-body: LAM Development begins each project by working with the community
   to identify its energy needs and determine if solar is the right option. Then, in
   conjunction with the utility company and the municipality, we find the optimal site
-  for a solar project that meets all parties’ requirements.<br/><br/>At this point
-  we survey the land, design the facility, and verify the planning conforms to land
-  use regulations, all the while informing the municipality of progress and tailoring
-  the project based on valued feedback. Once all approvals are received and the municipality
-  gives the final ok, the solar farm is built and immediately provides affordable,
-  renewable energy.
+  for a solar project that meets all parties’ requirements.<br/><br/>LAM Development
+  continually informs the community of the project's progress and tailors the project
+  based on our partners' valuable feedback. Once all approvals are received and the
+  municipality gives the final OK, the solar energy facility is built and immediately
+  provides cost-saving, renewable power.
 subsection5-title: The Time For Solar Is Now
 subsection5-body: LAM Development understands the immense potential for solar energy
   in New York State. Over the last few years, incredible strides in the advancement
-  of solar technology have made solar the most compelling energy option. Today’s solar
+  of solar technology make solar the most compelling energy option. Today’s solar
   panels are more efficient, more reliable, and cheaper than panels available in the
   past.
 layout: work
