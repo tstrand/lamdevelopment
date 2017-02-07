@@ -19,19 +19,19 @@ subsection1-body-2: 'Through a partnership with LAM Development, your land will 
   life. The land we utilize is left unscathed, and in pristine condition upon the
   removal of the facility, allowing it to be returned to its original use. '
 subsection2-title: We're here to help
-subsection2-body: LAM Development helps municipalities cut the cost of their utility
-  bills through a transition to clean solar energy. Utilizing our expertise, we provide
-  the assistance your community needs to navigate all steps of the process.
+subsection2-body: LAM Development helps communities lower their utility bills through
+  a transition to clean solar energy. Utilizing our expertise, we provide the assistance
+  needed to navigate all steps of the process.
 subsection2-title-2: Working Together Towards a Brighter Future
 subsection2-body-2: 'A transition to clean, cost-saving solar is ultimately a choice
   made by and for local residents. As a leader in solar development, we strive to
   foster a lasting and meaningful partnership with communities.<br/><br/>LAM Development
   ensures all of its projects are informed by three guiding principles:'
 subsection2-title-3: Open Dialogue with the Community
-subsection2-body-3: From the first planning meeting to the moment the solar energy
-  facility starts to produce power, we ensure local stakeholders are involved in every
-  aspect of the project. We engage with all parties to incorporate feedback and guarantee
-  all needs and concerns are addressed.
+subsection2-body-3: From the initial meeting to the moment the solar energy facility
+  starts to produce power, we ensure local stakeholders are involved in every aspect
+  of the project. We engage with all parties to incorporate their feedback and guarantee
+  that all needs and concerns are addressed.
 subsection2-title-4: A Local Focus
 subsection2-body-4: We understand that no two towns are alike, and that each project
   requires the careful consideration of a host of unique factors. With this in mind,
@@ -39,8 +39,8 @@ subsection2-body-4: We understand that no two towns are alike, and that each pro
   and tailor all plans according to local circumstance.
 subsection2-title-5: Lasting Commitment
 subsection2-body-5: LAM Development is here for the long term. We are focused on lasting
-  relationships to guarantee your community’s transition to solar energy is a success
-  for decades to come.
+  relationships to guarantee your community’s switch to cost-saving, renewable energy
+  is a success for decades to come.
 subsection3-title: We Are Here to Help
 subsection3-body: The energy industry is in a state of incredible transition. As the
   technologies of tomorrow become the energy resources of today, there is near unlimited
