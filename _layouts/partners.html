@@ -44,7 +44,7 @@ layout: page
             {% if jekyll.environment == 'development' %}
             <form id="contactForm" name="contactForm" action="https://formspree.io/tylermstrand@gmail.com" method="POST">
             {% else %}  
-            <form id="contactForm" name="contactForm" action="{{ page.form-recipient-email }}" method="POST">
+            <form id="contactForm" name="contactForm" action="https://formspree.io/{{ page.form-recipient-email }}" method="POST">
             {% endif %}
                 <fieldset>
                     <div class="col-lg-6 col-md-6 col-sm-6 pad-left">
