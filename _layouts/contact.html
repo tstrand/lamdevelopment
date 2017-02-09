@@ -1,0 +1,33 @@
+---
+layout: page
+---
+
+<div class="row">
+    <div class="col-md-4">
+        <h5>LAM Development Offices</h5>
+        <p>{{ page.address }}</p>
+        <br/>
+        <p>{{ page.phone }}</p>
+    </div>
+    <div class="col-md-8">
+        <h5>Get in touch</h5>
+        <form id="contactForm" name="contactForm" action="">
+            <fieldset>      
+                <div class="form-group">
+                    <input name="name" type="text" class="form-control" id="formName" placeholder="Name*" required>
+                    <input name="company" type="text" class="form-control" id="formCompany" placeholder="Company*" required>
+                    <input name="phone" type="text" class="form-control" id="formPhone" placeholder="Phone*" required>
+                    <input name="email" type="email" class="form-control" id="formEmail" placeholder="Email*" required>
+                    <textarea name="message" type="text" class="form-control" id="formMessage" placeholder="Message*" required></textarea>
+                    <input type="hidden" name="_subject" value="New Contact Message"/>
+                    {% if jekyll.environment == 'development' %}
+                        <input type="hidden" name="_sendto" id="_sendto" value="tylermstrand@gmail.com"/>
+                    {% else %}
+                        <input type="hidden" name="_sendto" id="_sendto" value="{{ page.form-recipient-email }}" />
+                    {% endif %}
+                </div>
+                <input type="submit" id="form-submit" class="form-submit" value="Submit">
+            </fieldset>
+        </form>
+    </div>
+</div>
