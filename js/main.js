@@ -26,7 +26,15 @@
     var url = document.location.toString();
     if (url.match('#')) {
         $('.nav-pills a[href="#' + url.split('#')[1] + '"]').tab('show');
-    } 
+    }
+
+    $('#tab').bind('click', function(event) {
+        url = $(this).find('a:first').attr('href');
+        console.log(url);
+        if (url.match('#')) {
+            $('.nav-pills a[href="#' + url.split('#')[1] + '"]').tab('show');
+        }
+    });
 
     // Change hash for page-reload
     $('.nav-pills a').on('shown.bs.tab', function (e) {
@@ -41,7 +49,7 @@
 
     // Closes the Responsive Menu on Menu Item Click
     $('.navbar-collapse ul li a').click(function(){ 
-            $('.navbar-toggle:visible').click();
+        $('.navbar-toggle:visible').click();
     });
 
     // Offset for Main Navigation

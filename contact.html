@@ -4,7 +4,7 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     
-    <title>Email Disclaimer</title>
+    <title>LAM | Contact</title>
 
     <meta name="description" content="">    
     <meta property="og:locale" content="en_US">
@@ -121,24 +121,41 @@
         <header class="header-page">
     <div class="bg-page-mask">
         <div class="container">
-            <h2 class="white center"></h2>
-            <h5 class="white center lowercase"></p>
+            <h2 class="white center">Contact Us</h2>
+            <h5 class="white center lowercase">We'd love to hear from you</p>
         </div>
     </div>
 </header>
 
 <section>
     <div class="container">
-		<h3 id="confidentiality">CONFIDENTIALITY:</h3>
-
-<p>This communication is intended solely for the intended recipient.  This email, any information herein and any attachments hereto may be confidential, privileged or otherwise exempt from disclosure under applicable law.  No confidentiality or privilege is waived or lost by an error in transmission or distribution.  If you are not the intended recipient, please notify the sender immediately, delete it from your system and do not copy, distribute, disclose or otherwise act upon any part of this communication or its attachments.</p>
-
-<p><br /></p>
-
-<h3 id="irs-circular-230investment-advice-disclosure">IRS CIRCULAR 230/INVESTMENT ADVICE DISCLOSURE:</h3>
-
-<p>You are hereby informed that, unless otherwise expressly communicated in writing to you, nothing contained in this message constitutes investment, legal, tax, real property, engineering, regulatory, permitting or other similar professional advice from or by Lieberman Asset Management Development, LLC or any of its affiliates upon which you may rely in making an investment or other decision. You should consider independently obtaining relevant and specific professional advice before making any investment decision or engaging in any transaction.</p>
-
+		<div class="row">
+    <div class="col-md-4">
+        <h5>LAM Development Offices</h5>
+        <p>123 Address Road, Unit 1A<br/>New York, NY 10001</p>
+        <br/>
+        <p>Phone (800) 800 8000</p>
+    </div>
+    <div class="col-md-8">
+        <h5>Get in touch</h5>
+        <form id="contactForm" name="contactForm" action="">
+            <fieldset>      
+                <div class="form-group">
+                    <input name="name" type="text" class="form-control" id="formName" placeholder="Name*" required>
+                    <input name="company" type="text" class="form-control" id="formCompany" placeholder="Company*" required>
+                    <input name="phone" type="text" class="form-control" id="formPhone" placeholder="Phone*" required>
+                    <input name="email" type="email" class="form-control" id="formEmail" placeholder="Email*" required>
+                    <textarea name="message" type="text" class="form-control" id="formMessage" placeholder="Message*" required></textarea>
+                    <input type="hidden" name="_subject" value="New Contact Message"/>
+                    
+                        <input type="hidden" name="_sendto" id="_sendto" value="tylermstrand@gmail.com" />
+                    
+                </div>
+                <input type="submit" id="form-submit" class="form-submit" value="Submit">
+            </fieldset>
+        </form>
+    </div>
+</div>
 	</div>
 </section>
 
