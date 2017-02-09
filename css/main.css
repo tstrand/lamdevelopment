@@ -230,6 +230,8 @@ fieldset { margin-top: 20px; }
 .nav-pills > li.active > a, .nav-pills > li.active > a:focus, .nav-pills > li.active > a:hover { background-color: #638396; }
 
 @media (max-width: 767px) { .nav-pills > li { float: none; } }
+.anchor { padding-top: 200px; margin-top: -200px; }
+
 /* Logos ------------------------------------------------ */
 .img-wrapper { width: 100%; text-align: center; }
 

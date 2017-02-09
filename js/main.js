@@ -22,19 +22,27 @@
         }
     );
 
+    $('#landowners-tab').bind('click', function(event) {
+        if (url.match('#')) {
+            $('.nav-pills a[href="#landowners"]').tab('show');
+        }
+    });
+    $('#communities-tab').bind('click', function(event) {
+        if (url.match('#')) {
+            $('.nav-pills a[href="#communities"]').tab('show');
+        }
+    });
+    $('#utilities-tab').bind('click', function(event) {
+        if (url.match('#')) {
+            $('.nav-pills a[href="#utilities"]').tab('show');
+        }
+    });
+
     // Javascript to enable link to tab
     var url = document.location.toString();
     if (url.match('#')) {
         $('.nav-pills a[href="#' + url.split('#')[1] + '"]').tab('show');
     }
-
-    $('#tab').bind('click', function(event) {
-        url = $(this).find('a:first').attr('href');
-        console.log(url);
-        if (url.match('#')) {
-            $('.nav-pills a[href="#' + url.split('#')[1] + '"]').tab('show');
-        }
-    });
 
     // Change hash for page-reload
     $('.nav-pills a').on('shown.bs.tab', function (e) {
