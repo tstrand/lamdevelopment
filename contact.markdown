@@ -5,9 +5,9 @@ permalink: "/contact"
 position: 0
 header-text: Contact Us
 subheader-text: We'd love to hear from you
-address: 123 Address Road, Unit 1A<br/>New York, NY 10001
-phone: Phone (800) 800 8000
-form-recipient-email: tylermstrand@gmail.com
+address: 139 West 82nd Street, Suite 6C<br/>New York, NY 10024
+phone: Phone (212) 321 0965
+form-recipient-email: support@lamdevelopment.com
 layout: contact
 ---
 
