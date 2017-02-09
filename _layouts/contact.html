@@ -11,7 +11,11 @@ layout: page
     </div>
     <div class="col-md-8">
         <h5>Get in touch</h5>
-        <form id="contactForm" name="contactForm" action="">
+        {% if jekyll.environment == 'development' %}
+        <form id="contactForm" name="contactForm" action="https://formspree.io/tylermstrand@gmail.com" method="POST">
+        {% else %}  
+        <form id="contactForm" name="contactForm" action="{{ page.form-recipient-email }}" method="POST">
+        {% endif %}
             <fieldset>      
                 <div class="form-group">
                     <input name="name" type="text" class="form-control" id="formName" placeholder="Name*" required>
