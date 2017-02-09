@@ -70,45 +70,45 @@
         });
     });
 
-    $("form[name='contactForm']").validate({
-        rules: {
-            name: "required",
-            phone: "required",
-            address: "required",
-            email: {
-                required: true,
-                email: true
-            },
-            acreage: "required",
-            parcel: "required",
-        },
-        messages: {
-            name: "Please enter your name",
-            phone: "Please enter your phone number",
-            address: "Please enter your address",
-            email: "Please enter a valid email address",
-            acreage: "Please enter your acreage",
-            parcel: "Please enter your parcel address"
-        },
-        submitHandler: function(form) {
-            var button = $("#form-submit");
-            button.val("Submitting...");
-            $.ajax({
-                url:'http://formspree.io/' + $("#_sendto").val(),
-                type:'post',
-                data:$('#contactForm').serialize(),
-                success:function(){
-                    button.removeClass("form-submit");
-                    button.addClass("form-submitted");
-                    button.val("Your submission was received!");
-                },
-                error:function(){
-                    button.removeClass("form-submit");
-                    button.addClass("form-submitted");
-                    button.val("Your submission was received!");
-                }
-            })
-        }
-    });
+    // $("form[name='contactForm']").validate({
+    //     rules: {
+    //         name: "required",
+    //         phone: "required",
+    //         address: "required",
+    //         email: {
+    //             required: true,
+    //             email: true
+    //         },
+    //         acreage: "required",
+    //         parcel: "required",
+    //     },
+    //     messages: {
+    //         name: "Please enter your name",
+    //         phone: "Please enter your phone number",
+    //         address: "Please enter your address",
+    //         email: "Please enter a valid email address",
+    //         acreage: "Please enter your acreage",
+    //         parcel: "Please enter your parcel address"
+    //     },
+    //     submitHandler: function(form) {
+    //         var button = $("#form-submit");
+    //         button.val("Submitting...");
+    //         $.ajax({
+    //             url:'http://formspree.io/' + $("#_sendto").val(),
+    //             type:'post',
+    //             data:$('#contactForm').serialize(),
+    //             success:function(){
+    //                 button.removeClass("form-submit");
+    //                 button.addClass("form-submitted");
+    //                 button.val("Your submission was received!");
+    //             },
+    //             error:function(){
+    //                 button.removeClass("form-submit");
+    //                 button.addClass("form-submitted");
+    //                 button.val("Your submission was received!");
+    //             }
+    //         })
+    //     }
+    // });
 
 })(jQuery); // End of use strict
