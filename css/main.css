@@ -58,6 +58,8 @@ h5, h6 { font-weight: 300; }
 
 .align-right { text-align: right !important; }
 
+.full-width { width: 100%; }
+
 /* Nav ------------------------- */
 .navbar-custom { background: #F8F8F8; font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif; text-transform: uppercase; font-weight: 700; border: none; border-bottom: 1px solid #B0BDC5; }
 
