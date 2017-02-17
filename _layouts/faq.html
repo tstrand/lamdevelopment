@@ -16,10 +16,12 @@ layout: page
     {% for question in site.questions %}
         {% if question.type == "general" %}
         <div class="col-lg-12">
-            <div class="background bg-medgrey">
+            <div class="background bg-medgrey full-width">
                 <h4>{{ question.title }}</h4>
                 <p>{{ question.body }}</p>
             </div>
+            <br/>
+            <br/>
         </div>
         {% endif %}
     {% endfor %}
@@ -41,10 +43,12 @@ layout: page
     {% for question in site.questions %}
         {% if question.type == "lease" %}
         <div class="col-lg-12">
-            <div class="background bg-medgrey">
+            <div class="background bg-medgrey full-width">
                 <h4>{{ question.title }}</h4>
                 <p>{{ question.body }}</p>
             </div>
+            <br/>
+            <br/>
         </div>
         {% endif %}
     {% endfor %}
