@@ -26,7 +26,7 @@ section1-body: LAM Development brings solar power to local town and city governm
   companies, LAM Development is able to quickly and efficiently meet the power needs
   of our clients.<br/><br/>Our knowledge and experience as the premier New York State
   solar developer allows us to bring together the right partners to maximize benefits
-  for both the municipality and the environment.
+  for both the community and the environment.
 section1-link: Read more about us &rarr;
 section2-title: We bring people together
 section2-subtitle: to create a brighter future
