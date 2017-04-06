@@ -29,38 +29,36 @@ subsection2-body: LAM Development helps communities lower their utility bills an
   assistance needed to navigate the steps of a transition to cost-saving renewable
   solar power.
 subsection2-title-2: Working Together Towards a Brighter Future
-subsection2-body-2: 'A transition to clean, cost-saving solar is ultimately a choice
-  made by and for local residents. As a leader in solar development, we strive to
-  foster a lasting and meaningful partnership with communities.<br/><br/>LAM Development
-  ensures all of its projects are informed by three guiding principles:'
-subsection2-title-3: Open Dialogue with the Community
-subsection2-body-3: From the initial meeting to the moment the solar energy facility
-  starts to produce power, we ensure local stakeholders are involved in every aspect
-  of the project. We engage with all parties to incorporate their feedback and guarantee
-  that all needs and concerns are addressed.
-subsection2-title-4: A Local Focus
-subsection2-body-4: We understand that no two towns are alike, and that each project
-  requires the careful consideration of a host of unique factors. With this in mind,
-  we design each solar solution to maximize the benefits provided to the local community
-  and tailor all plans according to local circumstance.
-subsection2-title-5: Lasting Commitment
-subsection2-body-5: LAM Development is here for the long term. We are focused on lasting
-  relationships to guarantee your community’s switch to cost-saving, renewable energy
+subsection2-body-2: 'The switch to solar energy is a choice made by and for local
+  residents. As a leader in solar development, LAM Development strives to foster lasting
+  partnerships with communities.<br/><br/>All of LAM Development’s projects follow
+  three guiding principles:'
+subsection2-title-3: A Local Focus
+subsection2-body-3: 'We understand that no two municipalities are alike, and that
+  each has its own particular needs and desires. As a result, we design each solar
+  solution to maximize the benefits provided to the community based on local circumstance. '
+subsection2-title-4: OPEN DIALOGUE WITH THE COMMUNITY
+subsection2-body-4: From the initial meeting to the removal of the solar energy facility,
+  LAM Development ensures that local stakeholders are involved every step of the way.
+  We engage all parties and incorporate their feedback to guarantee that all voices
+  are heard.
+subsection2-title-5: A Lasting Commitment
+subsection2-body-5: LAM Development is here for the long term. We are focused on creating
+  a lasting relationship to guarantee your community’s transition to solar energy
   is a success for decades to come.
-subsection3-title: Helping Navigate the energy landscape
-subsection3-body: The energy industry is in a state of incredible transition. As the
-  technologies of tomorrow become the energy resources of today, there is near unlimited
-  opportunities available.
-subsection3-title-2: However, nothing can be accomplished if we fail to include the
-  bedrock of our energy systems - utilities.
-subsection3-body-2: This is why LAM Development works to align its interests with
-  those of local utility companies. By working closely with the utilities whose load
-  zones we operate in, we hope to ensure an efficient and pleasant partnership between
-  the local community, the utility, and us.<br/><br/>As a part of every solar project
-  we help create, LAM Development seeks to increase the benefits to both the local
-  and regional grids.<br/><br/>Our close relationship to utility companies gives us
-  a distinct comparative edge over our competitors, assuring the transition to renewable
-  energy will be simple, seamless, and hassle-free.
+subsection3-title: Helping Navigate the Energy Landscape
+subsection3-body: The energy industry is undergoing rapid change.  Technological advancement
+  has revolutionized the energy industry, creating new opportunities for everyone
+  from customers to electricity suppliers.
+subsection3-title-2: 'To ensure the success of our projects, LAM Development works
+  closely with the bedrock of the energy system: Utilities'
+subsection3-body-2: LAM Development aligns its interests with those of local utility
+  companies, working towards a cleaner, more dynamic grid. By working closely with
+  utilities, we establish a productive and efficient partnership between the local
+  community, the utility, and ourself.<br/><br/>Through solar LAM Development seeks
+  to increase the benefits to both the local and regional grids. Our invaluable relationships
+  to utility companies give us a distinct comparative edge over our competitors, assuring
+  the transition to renewable energy will be simple, seamless, and hassle-free.
 form-recipient-email: land.leads@lamdevelopment.com
 layout: partners
 ---
