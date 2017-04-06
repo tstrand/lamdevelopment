@@ -12,10 +12,14 @@ subsection1-title-2: Flexibility and insight allow us to meet the specific needs
   every landowner. LAM Development's goal is to present individuals with opportunities
   to generate income for themselves while helping their community benefit from solar.
 subsection1-body-2: "<br/>Through a partnership with LAM Development your land will
-  be used to provide clean, renewable energy for generations to come.<br/><br/> Land
-  leased or sold to LAM Development will be used to produce cost-saving solar energy,
-  improve your local community, lower municipal electricity costs, and help bring
-  about a brighter future. "
+  be used to provide clean, renewable energy for generations to come. Land leased
+  or sold to LAM Development will be used to produce cost-saving solar energy, improve
+  your local community, lower municipal electricity costs, and help bring about a
+  brighter future.<br/> By partnering with LAM Development landowners are not responsible
+  for the construction, operation, and maintenance of the solar facility. LAM Development
+  works to ensure any aesthetic or environmental concerns of the landowners are addresses
+  throughout the lifetime of the solar energy facility. The land we use is returned
+  to its original condition at the end of a land lease."
 subsection2-title: We're here to help
 subsection2-body: LAM Development helps communities lower their utility bills through
   a transition to clean solar energy. Utilizing our expertise, we provide the assistance
