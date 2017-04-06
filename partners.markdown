@@ -24,9 +24,10 @@ subsection1-body-2: "<br/>Through a partnership with LAM Development your land w
   landowners and stakeholders. We listen to the needs and concerns of the community
   to ensure a project's success from start to finish."
 subsection2-title: We're here to help
-subsection2-body: LAM Development helps communities lower their utility bills through
-  a transition to clean solar energy. Utilizing our expertise, we provide the assistance
-  needed to navigate all steps of the process.
+subsection2-body: LAM Development helps communities lower their utility bills and
+  energy costs through clean solar energy. Utilizing our expertise, we provide the
+  assistance needed to navigate the steps of a transition to cost-saving renewable
+  solar power.
 subsection2-title-2: Working Together Towards a Brighter Future
 subsection2-body-2: 'A transition to clean, cost-saving solar is ultimately a choice
   made by and for local residents. As a leader in solar development, we strive to
