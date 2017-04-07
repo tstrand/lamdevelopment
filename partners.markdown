@@ -29,10 +29,17 @@ subsection2-body: LAM Development helps communities lower their utility bills an
   assistance needed to navigate the steps of a transition to cost-saving renewable
   solar power.
 subsection2-title-2: Working Together Towards a Brighter Future
+<<<<<<< HEAD
 subsection2-body-2: 'The switch to solar energy is a choice made by and for local
   residents. As a leader in solar development, LAM Development strives to foster lasting
   partnerships with communities.<br/><br/><center><h5>All of LAM Development’s projects follow
   three guiding principles:</h5></center>'
+=======
+subsection2-body-2: The switch to solar energy is a choice made by and for local residents.
+  As a leader in solar development, LAM Development strives to foster lasting partnerships
+  with communities.<br/><br/><center><h5>All of LAM Development’s projects follow
+  three guiding principles:</h5></center>
+>>>>>>> 12b17d5a86cfa4e444d894985a3fc72659df88f8
 subsection2-title-3: A Local Focus
 subsection2-body-3: 'We understand that no two municipalities are alike, and that
   each has its own particular needs and desires. As a result, we design each solar
