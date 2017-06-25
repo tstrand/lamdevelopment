@@ -21,6 +21,9 @@ The Website may contain links to third party web sites or services that are not 
 
 You acknowledge and agree that LAM shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, goods or services available on or through any such third party web sites or services.  LAM strongly advises you to read the terms and conditions and privacy policies of any third party web sites or services that you visit.
 
+### Recordings  
+LAM utilizes a phone system that records phone calls.  When the system is recording, the system is not selective. There is no way to turn off for one customer and on for another. LAM records phone calls to, among other things, monitor quality, provide supervision, and improve services.  You agree to provide notification that LAM records phone calls to Your personnel, including all of Your employees, agents, subcontractors, and affiliates.
+
 ### Termination
 LAM may terminate or suspend your access to the Website immediately, without prior notice or liability, under our sole discretion, for any reason whatsoever and without limitation, including but not limited to a breach of the Terms.
 
