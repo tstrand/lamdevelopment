@@ -5,7 +5,7 @@ permalink: "/contact"
 position: 0
 header-text: Contact Us
 subheader-text: We'd love to hear from you
-address: 139 West 82nd Street, Suite 6C<br/>New York, NY 10024
+address: 33 W 60th Street, Floor 2 Suite 218<br/>New York, NY 10023
 phone: Phone (212) 321 0965
 form-recipient-email: support@lamdevelopment.com
 layout: contact
